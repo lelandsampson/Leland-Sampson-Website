@@ -5,5 +5,9 @@ h1 {
 }
 
 p {
-  font-family: font-family: 'Nunito', sans-serif;
+  font-family: 'Nunito', sans-serif;
+}
+
+.center {
+  text-align: center;
 }
