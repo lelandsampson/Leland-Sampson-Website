@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
 		<title>INST 728J Final Project</title>
 		
 		<link rel="stylesheet" href="style.css">
@@ -8,14 +10,65 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito&family=Noto+Serif">
 		
 		<style>
-					h1 {
-			  font-family: 'Noto Serif', serif;
+			* {
+				  box-sizing: border-box;
+				}
+
+			/* Style the header */
+			.header {
+			  background-color: #;
+			  padding: 30px;
+			  text-align: center;
+			  font-size: 35px;
+			  border: 1px solid red;
 			}
 
-			p {
+			/* Create unequal columns that float next to each other */
+			.column {
+			  float: left;
+			  padding: 10px;
+			}
+
+			.column.menu {
+			  width: 25%;
+			  border: 1px solid red;
+			}
+
+			.column.content {
+			  width: 75%;
+			  border: 1px solid red;
+			}
+
+			/* Clear floats after the columns */
+			.row:after {
+			  content: "";
+			  display: table;
+			  clear: both;
+			}
+
+			.footer {
+			  background-color: #f1f1f1;
+			  padding: 10px;
+			  text-align: center;
+			  border: 1px solid red;
+			}
+
+			/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+			@media (max-width: 600px) {
+			  .column.menu, .column.content {
+				width: 100%;
+			  }
+			}
+			
+			
+			body {
 			  font-family: 'Nunito', sans-serif;
 			}
-
+			
+			h1,h2,h3,h4,h5,h6 {
+			font-family: 'Noto Serif', serif;
+			}
+			
 			.center {
 			  text-align: center;
 			}
@@ -23,9 +76,32 @@
 		</style>
    </head>
    <body>
+		
+		<div class="header">
 		<div class="center">
 			<h1>Welcome</h1>
 		</div>
-      <p>This is the homepage for this website that is the final project for INST 728J 🎉</p>
+		</div>
+
+		<div class="row">
+		<div class="column menu">	
+			Main Menu
+				<ul>
+					<li><a href="/index.html">Homepage</a></li>
+					<li>Education</li>
+					<li>Work Experience</li>
+					<li>Presentations</li>
+					<li><a href="/contact.html">Contact</a></li>
+				</ul>
+		  </div>
+		  <div class="column content">	
+			<p align="center"><b>This is the homepage for this website that is the final project for INST 728J</b> 🎉</p>
+		  </div>
+
+		</div>
+
+		<div class="footer">
+		  <p>Footer</p>
+		</div>
    </body>
 </html>
