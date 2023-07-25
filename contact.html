@@ -1,9 +1,16 @@
+<!DOCTYPE html>
 <html>
-    
-    <head>
+   <head>
 		<meta name="robots" content="noindex,nofollow">
-        <meta charset="utf-8">        
-        <title>Contact Form</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>INST 728J Final Project</title>
+		
+		<link rel="stylesheet" href="style.css">
+		
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito&family=Noto+Serif">
+		
 		<style>
 			* {
 				  box-sizing: border-box;
@@ -48,7 +55,7 @@
 			}
 
 			/* Responsive layout - makes the columns stack on top of each other instead of next to each other */
-			@media (max-width: 300px) {
+			@media (max-width: 600px) {
 			  .column.menu, .column.content {
 				width: 100%;
 			  }
@@ -67,28 +74,26 @@
 			  text-align: center;
 			}
 			
-			.ContactTable, th,td {
+			ContactTable, th,td {
 				padding: 10px;
 				text-align: left;
 				border-collapse: collapse;
 				table-align: center}
 				tr:hover {background-color: #ddd;
+				margin-left: auto; 
+				margin-right: auto
 			}	
 
 		</style>
+   </head>
+   <body>
 		
-
-    </head>
-
-    <body>
-	
 		<div class="header">
 		<div class="center">
-			<h1>Submit a question or comment</h1>
+			<h1>Welcome</h1>
 		</div>
 		</div>
-		
-		
+
 		<div class="row">
 		<div class="column menu">	
 			Main Menu
@@ -101,14 +106,10 @@
 				</ul>
 		  </div>
 		  <div class="column content">	
-			<p align="center"><b>Hello, to contact me, please use this form.</b></p>
-
-
-        
-                    
-        <fieldset  align=center>
+			<p align="center"><b>This is the homepage for this website that is the final project for INST 728J</b> 🎉</p>
+			       <fieldset  align=center>
 		<form name="ContactMe" method="post" action="thankyou.html">
-		<legend class="legend">Enter as much information as you are comfortable with</legend>
+		<legend class="legend">Hello, to contact me, please use this form.</legend>
 		
     <table  id=ContactTable>
 		<col width="20%">
@@ -142,7 +143,7 @@
 	<tr>
 	<td>Comments</td>
 	<td>
-	<textarea rows="4" cols="50" id="comment" placeholder="Enter your comments"></textarea></td>
+	<textarea rows="4" cols="20" id="comment" placeholder="Enter your comments"></textarea></td>
 	</tr>
 	
 	<tr>
@@ -188,9 +189,8 @@
 </table>
 		
 		
-
+</form>
 </fieldset>
-
 		  </div>
 
 		</div>
@@ -198,5 +198,5 @@
 		<div class="footer">
 		  <p>Footer</p>
 		</div>
-    </body>
+   </body>
 </html>
