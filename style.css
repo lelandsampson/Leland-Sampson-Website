@@ -41,7 +41,7 @@
 }
 
 /* Responsive layout - makes the columns stack on top of each other instead of next to each other */
-@media (max-width: 300px) {
+@media (max-width: 600px) {
   .column.menu, .column.content {
 	width: 100%;
   }
@@ -58,15 +58,4 @@ font-family: 'Noto Serif', serif;
 
 .center {
   text-align: center;
-}
-
-.ContactTable, th,td {
-	padding: 10px;
-	text-align: left;
-	font-family: Arial, Helvetica;
-	border-collapse: collapse;
-	table-align: center}
-	tr:hover {background-color: #ddd;
-	margin-left: auto; 
-	margin-right: auto
 }
