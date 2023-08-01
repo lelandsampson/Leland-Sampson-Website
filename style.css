@@ -19,6 +19,7 @@
 .column.menu {
   width: 25%;
   border: 1px solid red;
+  line-height: 200%;
 }
 
 .column.content {
