@@ -61,6 +61,23 @@ font-family: 'Noto Serif', serif;
   text-align: center;
 }
 
+.inset.paragraph {
+	border-color: black;
+	border-width: 1px;
+	border-style: dashed;
+	border-radius: 15px;
+	background-color: #d5f4ff;
+	padding: 25px;
+	padding-left: 80px;
+	margin: 30px;
+	margin-right: 100px;
+	background-image: url(images/star.png);
+	background-repeat: no-repeat;
+	background-position: top left;
+	
+	
+}
+
 ContactTable, th,td {
 	padding: 10px;
 	text-align: left;
