@@ -6,8 +6,9 @@
   background-color: #;
   padding: 20px;
   text-align: center;
-  font-size: 35px;
   border: 1px solid red;
+  font-size: clamp(3.5rem, 2.571rem + 4.286vw, 6rem);
+  font-family: 'Noto Serif', serif;
 }
 
 /* Create unequal columns that float next to each other */
@@ -20,6 +21,8 @@
   width: 25%;
   border: 1px solid red;
   line-height: 200%;
+  font-family: 'Roboto Slab', serif;
+  font-size: clamp(1.1rem, 0.933rem + 0.771vw, 1.55rem);
 }
 
 .column.content {
@@ -42,7 +45,7 @@
 }
 
 /* Responsive layout - makes the columns stack on top of each other instead of next to each other */
-@media (max-width: 600px) {
+@media (max-width: 850px) {
   .column.menu, .column.content {
 	width: 100%;
   }
@@ -51,10 +54,16 @@
 
 body {
   font-family: 'Nunito', sans-serif;
+  font-size: clamp(1rem, 0.814rem + 0.857vw, 1.5rem);
 }
 
-h1,h2,h3,h4,h5,h6 {
-font-family: 'Noto Serif', serif;
+h2,h3,h4,h5,h6 {
+ font-family: 'Noto Serif', serif;
+}
+
+h1 {
+ font-size: clamp(1.25rem, 1.064rem + 0.857vw, 1.75rem);
+ font-family: 'Noto Serif', serif;
 }
 
 .center {
