@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang=en>
+   <head>
+		<meta charset="UTF-8">
+		
+		<meta name="viewport" content="width=80vw, initial-scale=1" />
+			
+		<title>Feedback</title>
+		
+		<link type="text/css" rel="stylesheet" href="style.css">		
+		
+		      <script type = "text/javascript">
+			   <!--
+				  // Form validation code will come here.
+				  function validate() {
+				  
+					 if( document.Feedback.CaseID.value == "" ) {
+						alert( "Please provide your Case ID!" );
+						document.Feedback.CaseID.focus() ;
+						return false;
+					 }
+					 if( document.Feedback.Subject.value == "" ) {
+						alert( "Please provide your Subject!" );
+						document.Feedback.Subject.focus() ;
+						return false;
+					 }
+					 if( document.Feedback.comment.value == "" ) {
+						alert( "Please provide your Comment!" );
+						document.Feedback.comment.focus() ;
+						return false;
+					 }						
+					 return( true );
+				  }
+			   //-->
+			</script>     
+
+   </head>
+   <body>
+   
+   <div class="background">
+   
+	<div class="container">		
+
+		<div class="header">
+		<img src="images/umd_logo.png" alt="University of Maryland Logo">
+		</div>
+		
+		
+		
+			<div class="content container">
+
+		
+				<div class="column menu">	
+				
+					<div class="column menu ul">
+			
+					<ul>
+						<li><a href="#">Payroll Information</a></li>
+						<li><a href="#">Peformance Appraisal</a></li>
+						<li><a href="#">Time Sheet</a></li>
+						<li><a href="#">Leave Management</a></li>
+						<li><a href="#">Health Benefits</a></li>
+						<li><a href="orgchart.html">Organization Chart</a></li>
+						<li><a href="#">Access Management</a></li>
+						<li><a href="#">Career Development</a></li>
+						<li><a href="#">My Profile</a></li>
+						<li><a href="#">Expense Reimbursement</a></li>
+						<li><a href="#">Retirement Planning</a></li>
+						<li><a href="#">Ticket Management</a></li>
+						<li><a href="#">Documents</a></li>
+						<li><a href="#">Feedback</a></li>
+					
+					</ul>
+					
+					</div>
+				</div>
+				
+				<div class="column content">	
+					<div class="box outer">
+						Please complete the following form</br></br>
+							
+							<div class="box inner">
+								
+									<form class="form" name="Feedback" onsubmit = "return(validate());" action="thankyou.html">
+									<legend class="legend">feedback</legend></br></br>
+									
+											<table  id=ContactTable>
+
+												<tr>
+												<td>CaseID:<span style="color:red">&ast;</span></td>
+												<td>
+													<input type="text" id="CaseID" placeholder="34564" >
+												</td>
+												</tr>
+
+												<tr>
+												<td>Subject:<span style="color:red">&ast;</span></td>
+												<td><input type="text" id="Subject" placeholder=""  size="35" /></td>
+												</tr>
+																<tr>
+												<td>Comments:<span style="color:red">&ast;</span></td>
+												<td>
+												<textarea rows="4" cols="20" id="comment" placeholder="" ></textarea></td>
+												</tr>
+				
+												<tr>
+												<td></td>
+												<td>
+												<div><input type="submit" value="Submit"></div>
+												</td>
+												</tr>
+												
+												</table>
+									</form>
+							</div>
+					</div>
+					
+
+				
+			  </div>
+
+			</div>
+		
+		
+
+		<div class="footer">
+		  <p>Copyright &#169; UMD. All Rights Reserved.</p>
+		</div>
+		
+	</div>
+	</div>
+   </body>
+</html>
