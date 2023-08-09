@@ -3,10 +3,13 @@
 	}
 
 .header {
-  background-color: #;
+  background-color: #3242a8;
   padding: 20px;
   text-align: center;
-  border: 1px solid red;
+  color: white;
+  border-width: 5px;
+  border-color: #3266a8;
+  border-radius: 10px;
   font-size: clamp(3.5rem, 2.571rem + 4.286vw, 6rem);
   font-family: 'Noto Serif', serif;
 }
@@ -24,6 +27,30 @@
   font-family: 'Roboto Slab', serif;
   font-size: clamp(1.1rem, 0.933rem + 0.771vw, 1.55rem);
 }
+
+.accordion {
+  background-color: white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #e6eded; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
 
 .column.content {
   width: 75%;

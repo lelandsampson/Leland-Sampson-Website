@@ -15,6 +15,22 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&family=Nunito&family=Roboto+Slab&display=swap" rel="stylesheet">
 		
+		<script>
+			var acc = document.getElementsByClassName("accordion");
+			var i;
+
+			for (i = 0; i < acc.length; i++) {
+			  acc[i].addEventListener("click", function() {
+				this.classList.toggle("active");
+				var panel = this.nextElementSibling;
+				if (panel.style.display === "block") {
+				  panel.style.display = "none";
+				} else {
+				  panel.style.display = "block";
+				}
+			  });
+			}
+		</script>
 
    </head>
    <body>
@@ -26,8 +42,10 @@
 		</div>
 
 		<div class="row">
+		
 		<div class="column menu">	
-			Main Menu
+		<div button class="accordion">Main Menu</button>
+			<div class="panel">
 				<ul>
 					<li><a href="/index.html">Homepage</a></li>
 					<li>Education</li>
@@ -35,6 +53,8 @@
 					<li>Presentations</li>
 					<li><a href="/contact.html">Contact</a></li>
 				</ul>
+			</div>	
+		  </div>
 		  </div>
 		  <div class="column content">	
 			<h1 align="center"><b>This is the homepage for this website that is the final project for INST 728J</b> 🎉</h1>
