@@ -14,6 +14,11 @@
   font-family: 'Noto Serif', serif;
 }
 
+.header.link { 
+  color: white; 
+  text-decoration: none;
+}
+
 /* Create unequal columns that float next to each other */
 .column {
   float: left;
@@ -26,6 +31,7 @@
   line-height: 125%;
   font-family: 'Roboto Slab', serif;
   font-size: clamp(1.5rem, 1.303rem + 1.053vw, 2.25rem);
+
 }
 
 .accordion {
