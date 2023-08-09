@@ -114,8 +114,12 @@ h1 {
 }
 
 h2 {
-  font-size: clamp(1.25rem, 1.053rem + 1.053vw, 2rem);
+  font-size: clamp(1.25rem, 1.118rem + 0.702vw, 1.75rem);
   font-family: 'Noto Serif', serif;	
+}
+
+p.indent {
+margin-left: 30px;
 }
 
 .center {
