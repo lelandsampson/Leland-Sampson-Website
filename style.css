@@ -22,14 +22,13 @@
 
 .column.menu {
   width: 25%;
-  border: 1px solid red;
+  border: none;
   line-height: 200%;
   font-family: 'Roboto Slab', serif;
   font-size: clamp(1.1rem, 0.933rem + 0.771vw, 1.55rem);
 }
 
 .accordion {
-  background-color: #dbe9ff;
   padding: 30px 15px;
   margin: 0 auto;
   border: 1px solid #4285F4;
@@ -37,17 +36,24 @@
 }
 .accordion details {
   color: #222222;
-  line-height: 1.7;
+
 }
+
 .accordion details summary {
   margin-bottom: 20px;
-  color: #4285F4;
+  color: #000000;
   cursor: pointer;
+
 }
 .accordion details[open] summary {
-  color: #000000;
+  color: #4285F4;
   -webkit-transition: color .7s ease-in;
   transition: color .7s ease-in;
+
+}
+
+ul.menu {
+  background-color: #dbe9ff;  	
 }
 
 
