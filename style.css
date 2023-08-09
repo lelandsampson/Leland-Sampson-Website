@@ -4,14 +4,16 @@
 
 .header {
   background-color: #3242a8;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   text-align: center;
   color: white;
   border-width: 5px;
   border-color: #3266a8;
   border-radius: 3px;
-  font-size: clamp(3.5rem, 2.571rem + 4.286vw, 6rem);
+  font-size: clamp(3.5rem, 2.842rem + 3.509vw, 6rem);
   font-family: 'Noto Serif', serif;
+  display:block
 }
 
 
