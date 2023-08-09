@@ -14,10 +14,6 @@
   font-family: 'Noto Serif', serif;
 }
 
-.header.link { 
-  color: white; 
-  text-decoration: none;
-}
 
 /* Create unequal columns that float next to each other */
 .column {
@@ -64,14 +60,15 @@ ul.menu {
 
 a {
   text-decoration: none;
-color: black;
 }
 
 a.menu.link:hover, a.menu.link:active {
-	color: #4285F4;
+	background-color: #ddd;
 }
 
-
+.header.link { 
+  color: white; 
+}
 
 .column.content {
   width: 75%;
