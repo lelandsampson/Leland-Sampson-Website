@@ -23,9 +23,9 @@
 .column.menu {
   width: 25%;
   border: none;
-  line-height: 200%;
+  line-height: 125%;
   font-family: 'Roboto Slab', serif;
-  font-size: clamp(1.1rem, 0.933rem + 0.771vw, 1.55rem);
+  font-size: clamp(1rem, 0.539rem + 2.456vw, 2.75rem);
 }
 
 .accordion {
@@ -53,7 +53,7 @@
 }
 
 ul.menu {
-  background-color: #dbe9ff;  	
+  font-size: clamp(1rem, 0.737rem + 1.404vw, 2rem);
 }
 
 
@@ -87,16 +87,21 @@ ul.menu {
 
 body {
   font-family: 'Nunito', sans-serif;
-  font-size: clamp(1rem, 0.814rem + 0.857vw, 1.5rem);
+  font-size: clamp(1rem, 0.934rem + 0.351vw, 1.25rem);
 }
 
-h2,h3,h4,h5,h6 {
+h3,h4,h5,h6 {
  font-family: 'Noto Serif', serif;
 }
 
 h1 {
- font-size: clamp(1.25rem, 1.064rem + 0.857vw, 1.75rem);
+ font-size: clamp(1rem, 0.539rem + 2.456vw, 2.75rem);
  font-family: 'Noto Serif', serif;
+}
+
+h2 {
+  font-size: clamp(1rem, 0.737rem + 1.404vw, 2rem);
+  font-family: 'Noto Serif', serif;	
 }
 
 .center {
