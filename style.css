@@ -87,7 +87,8 @@ a.menu.link:hover, a.menu.link:active {
 .footer {
   background-color: #;
   padding: 10px;
-  text-align: center;
+  padding-left: 50px;
+  text-align: left;
   border: 1px solid red;
 }
 
