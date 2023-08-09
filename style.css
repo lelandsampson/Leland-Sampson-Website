@@ -53,13 +53,22 @@
 }
 .accordion details[open] summary {
   color: #4285F4;
-  -webkit-transition: color .7s ease-in;
-  transition: color .7s ease-in;
+  -webkit-transition: color .5s ease-in;
+  transition: color .5s ease-in;
 
 }
 
 ul.menu {
-  font-size: clamp(1.25rem, 1.053rem + 1.053vw, 2rem);
+  font-size: clamp(1.25rem, 1.053rem + 1.053vw, 2rem); 
+}
+
+a {
+  text-decoration: none;
+color: black;
+}
+
+a.menu.link:hover, a.menu.link:active {
+	color: #4285F4;
 }
 
 
