@@ -1,6 +1,11 @@
+/*css was mainly adapted from https://www.w3schools.com. In particular, I used the Frameworks page (https://www.w3schools.com/css/css_rwd_frameworks.asp) to adapt the basic layout and make it mobile responsive. */
+
 * {
 	  box-sizing: border-box;
 	}
+
+/* CSS clamp calculator: https://www.marcbacon.com/tools/clamp-calculator/ */
+/* CSS used for header block */
 
 .header {
   background-color: #3242a8;
@@ -23,6 +28,7 @@
   padding: 10px;
 }
 
+/* CSS for the floating menu. The goal was to have the menu on the left on desktop and below header but above content on mobile */
 .column.menu {
   width: 25%;
   border: none;
@@ -32,6 +38,7 @@
 
 }
 
+/* This CSS styles the drop down main menu */
 .accordion {
   padding: 30px 15px;
   margin: 0 auto;
@@ -56,22 +63,27 @@
 
 }
 
+/* CSS for main menu links */
 ul.menu {
   font-size: clamp(1.25rem, 1.053rem + 1.053vw, 2rem); 
 }
 
+/* Needed to remove underline from links so they looked right */
 a {
   text-decoration: none;
 }
 
+/* Added the color change on hover so it would indicate to user the link action would happen if they pressed the mouse */
 a.menu.link:hover, a.menu.link:active {
 	background-color: #ddd;
 }
 
+/* CSS to make my name in the header clickable so it is easy to get back to homepage */
 .header.link { 
   color: white; 
 }
 
+/* CSS for main content area of pages */
 .column.content {
   width: 75%;
   border: 1px solid red;
@@ -84,6 +96,7 @@ a.menu.link:hover, a.menu.link:active {
   clear: both;
 }
 
+/* CSS for footer */
 .footer {
   background-color: #;
   padding: 10px;
@@ -98,7 +111,7 @@ a.menu.link:hover, a.menu.link:active {
   }
 }
 
-
+/* CSS to specify different fonts for different content areas. Used different fonts for header, menu, and content blocks */
 body {
   font-family: 'Nunito', sans-serif;
   font-size: clamp(1rem, 0.934rem + 0.351vw, 1.25rem);
@@ -123,6 +136,7 @@ h3 {
  font-family: 'Noto Serif', serif;	
 }
 
+/* CSS to style content */
 p.indent {
 margin-left: 30px;
 }
@@ -135,8 +149,7 @@ padding-left: 60px;
   text-align: center;
 }
 
-/*css for image gallery from https://www.w3schools.com/css/css_image_gallery.asp */
-
+/*CSS for form adapted from Assignment 2 and https://www.w3schools.com/howto/howto_css_responsive_form.asp */
 ContactTable, th,td {
 	padding: 10px;
 	text-align: left;
