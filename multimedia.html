@@ -78,37 +78,36 @@
 			
 				<p>This is the multi media page for this project</p> 
 				
-				<div class="slideshow-container">
-
-				<div class="mySlides fade">
-				  <div class="numbertext">1 / 3</div>
-				  <img src="https://images.unsplash.com/photo-1675058353420-3e7498729db3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW4lMjB2aXN0YXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" style="width:100%">
-				  <div class="text">Caption Text</div>
-				</div>
-
-				<div class="mySlides fade">
-				  <div class="numbertext">2 / 3</div>
-				  <img src="https://plus.unsplash.com/premium_photo-1673697240042-7e856a4da6f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW91bnRhaW4lMjB2aXN0YXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" style="width:100%">
-				  <div class="text">Caption Two</div>
-				</div>
-
-				<div class="mySlides fade">
-				  <div class="numbertext">3 / 3</div>
-				  <img src="https://images.unsplash.com/photo-1675059086098-118e068cedfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bW91bnRhaW4lMjB2aXN0YXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" style="width:100%">
-				  <div class="text">Caption Three</div>
-				</div>
-
-				<a class="prev" onclick="plusSlides(-1)">❮</a>
-				<a class="next" onclick="plusSlides(1)">❯</a>
-
-				</div>
-				<br>
-
-				<div style="text-align:center">
-				  <span class="dot" onclick="currentSlide(1)"></span> 
-				  <span class="dot" onclick="currentSlide(2)"></span> 
-				  <span class="dot" onclick="currentSlide(3)"></span> 
-				</div>
+				<div class="slider-wrapper">
+					  <div class="slider">
+						<input type="radio" name="slider" class="trigger" id="one" checked="checked" />
+						<div class="slide">
+						  <figure class="slide-figure">
+							<img class="slide-img" src="images/mountain-1.jpg" />
+							<figcaption class="slide-caption"><p>Caption for mountain 1</p></figcaption>
+						  </figure><!-- .slide-figure -->
+						</div><!-- .slide -->
+						<input type="radio" name="slider" class="trigger" id="two" />
+						<div class="slide">
+						  <figure class="slide-figure">
+							<img class="slide-img" src="images/mountain-2.jpg" />
+							<figcaption class="slide-caption"><p>Caption for mountain 2</p></figcaption>
+						  </figure><!-- .slide-figure -->
+						</div><!-- .slide -->
+						<input type="radio" name="slider" class="trigger" id="three" />
+						<div class="slide">
+						  <figure class="slide-figure">
+							<img class="slide-img" src="images/mountain-3.jpg" />
+							<figcaption class="slide-caption"><p>Caption for mountain 3</p></figcaption>
+						  </figure><!-- .slide-figure -->
+						</div><!-- .slide -->
+					  </div><!-- .slider -->
+					  <ul class="slider-nav">
+						<li class="slider-nav__item"><label class="slider-nav__label" for="one">1</label></li>
+						<li class="slider-nav__item"><label class="slider-nav__label" for="two">2</label></li>
+						<li class="slider-nav__item"><label class="slider-nav__label" for="three">3</label></li>
+					  </ul><!-- .slider-nav -->
+				</div><!-- .slider-wrapper -->
 
 		  </div>
 
@@ -121,34 +120,7 @@
 		  </p>
 		</div>
 		
-		<script>
-			let slideIndex = 1;
-			showSlides(slideIndex);
 
-			function plusSlides(n) {
-			  showSlides(slideIndex += n);
-			}
-
-			function currentSlide(n) {
-			  showSlides(slideIndex = n);
-			}
-
-			function showSlides(n) {
-			  let i;
-			  let slides = document.getElementsByClassName("mySlides");
-			  let dots = document.getElementsByClassName("dot");
-			  if (n > slides.length) {slideIndex = 1}    
-			  if (n < 1) {slideIndex = slides.length}
-			  for (i = 0; i < slides.length; i++) {
-				slides[i].style.display = "none";  
-			  }
-			  for (i = 0; i < dots.length; i++) {
-				dots[i].className = dots[i].className.replace(" active", "");
-			  }
-			  slides[slideIndex-1].style.display = "block";  
-			  dots[slideIndex-1].className += " active";
-			}
-		</script>
 		
    </body>
 </html>
