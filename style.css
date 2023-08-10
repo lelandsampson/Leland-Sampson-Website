@@ -86,7 +86,6 @@ a.menu.link:hover, a.menu.link:active {
 /* CSS for main content area of pages */
 .column.content {
   width: 75%;
-  border: 1px solid red;
 }
 
 /* Clear floats after the columns so footer stays at bottom*/
@@ -166,8 +165,10 @@ ContactTable, th,td {
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
-  width: 180px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 div.gallery:hover {
