@@ -135,6 +135,8 @@ padding-left: 60px;
   text-align: center;
 }
 
+/*css for image gallery from https://www.w3schools.com/css/css_image_gallery.asp */
+
 ContactTable, th,td {
 	padding: 10px;
 	text-align: left;
@@ -147,7 +149,30 @@ ContactTable, th,td {
 
 
 
-/*css for image carousel */
+/*css for image gallery from https://www.w3schools.com/css/css_image_gallery.asp */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+/*css for image carousel from https://w3bits.com/css-image-slider/ */
+
 img {
   max-width: 100%;
   vertical-align: middle;
