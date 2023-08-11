@@ -44,6 +44,7 @@
   margin: 0 auto;
   border: 1px solid #4285F4;
   border-radius: 7px;
+  background-color: #e1e8f2;
 }
 .accordion details {
   color: #222222;
