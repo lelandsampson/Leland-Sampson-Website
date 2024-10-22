@@ -1,2 +1,2 @@
-# INST728J
-This repository will store assignments for INST 728J during summer 2023.
+# Sampson.info website
+This is the personal website for Leland Sampson
