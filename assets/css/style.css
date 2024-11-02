@@ -228,13 +228,6 @@ th {
     .main-nav {
         position: static;
     }
-
-    .profile-image {
-        float: none;
-        display: block;
-        margin: var(--spacing-md) auto;
-        max-width: 200px;
-    }
 	
 	.content-section {
         flex-direction: column;
