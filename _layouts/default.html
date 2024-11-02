@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex,nofollow">
+    
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    
+    <link type="text/css" rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&family=Nunito&family=Roboto+Slab&display=swap" rel="stylesheet">
+    
+    {% feed_meta %}
+    {% seo %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <a class="header-link" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <aside class="sidebar">
+                <nav class="main-nav">
+                    <details class="nav-accordion">
+                        <summary>Main Menu</summary>
+                        <ul class="nav-list">
+                            <li><a href="{{ '/' | relative_url }}">Homepage</a></li>
+                            <li><a href="{{ '/education' | relative_url }}">Education</a></li>
+                            <li><a href="{{ '/experience' | relative_url }}">Experience</a></li>
+                            <li><a href="{{ '/presentations' | relative_url }}">Presentations</a></li>
+                            <li><a href="{{ '/iolta2023' | relative_url }}">IOLTA 2023</a></li>
+                            <li><a href="{{ '/msba2024' | relative_url }}">MSBA 2024</a></li>
+                            <li><a href="{{ '/iolta2024' | relative_url }}">IOLTA 2024</a></li>
+                        </ul>
+                    </details>
+                </nav>
+            </aside>
+            
+            <div class="content">
+                {{ content }}
+            </div>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ 'now' | date: "%Y" }}, {{ site.title }}</p>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/leland-sampson-esq/" class="social-link">LinkedIn</a>
+                <a href="https://twit.social/@lelandsampson" class="social-link">Mastodon</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

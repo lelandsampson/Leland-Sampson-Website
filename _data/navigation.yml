@@ -1,0 +1,20 @@
+# _data/navigation.yml
+- title: Home
+  url: /
+  order: 1
+
+- title: Education
+  url: /education/
+  order: 2
+
+- title: Experience
+  url: /experience/
+  order: 3
+
+- title: Projects
+  url: /projects/
+  order: 4
+
+- title: Presentations
+  url: /presentations/
+  order: 5
