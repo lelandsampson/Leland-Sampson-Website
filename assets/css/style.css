@@ -1,5 +1,3 @@
-/* css/style.css */
-
 /* CSS Variables */
 :root {
     /* Color variables */
@@ -130,13 +128,43 @@ p {
     padding-left: var(--spacing-xs);
 }
 
-/* Main Content Area */
+/* Content Area */
 .content {
     flex: 1;
 }
 
 .content-section {
     margin-bottom: var(--spacing-lg);
+}
+
+/* Image Styles */
+.content img {
+    max-width: 100%;
+    height: auto;
+    margin: var(--spacing-md) 0;
+}
+
+/* Profile Image Specific Styles */
+.profile-image {
+    float: right;
+    margin: 0 0 var(--spacing-md) var(--spacing-md);
+    max-width: 250px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Content Formatting */
+.content ul, 
+.content ol {
+    margin-bottom: var(--spacing-md);
+    padding-left: var(--spacing-lg);
+}
+
+.content blockquote {
+    border-left: 4px solid var(--primary-color);
+    padding-left: var(--spacing-md);
+    margin: var(--spacing-md) 0;
+    font-style: italic;
 }
 
 /* Footer Styles */
@@ -162,46 +190,6 @@ p {
     text-decoration: underline;
 }
 
-/* Responsive Design */
-@media (max-width: 850px) {
-    .main-content .container {
-        flex-direction: column;
-    }
-    
-    .sidebar {
-        flex: 0 0 100%;
-    }
-    
-    .main-nav {
-        position: static;
-    }
-}
-
-/* Utility Classes */
-.text-center { text-align: center; }
-.indent { margin-left: 30px; }
-.list-indent { padding-left: 60px; }
-
-/* Content Formatting */
-.content ul, 
-.content ol {
-    margin-bottom: var(--spacing-md);
-    padding-left: var(--spacing-lg);
-}
-
-.content img {
-    max-width: 100%;
-    height: auto;
-    margin: var(--spacing-md) 0;
-}
-
-.content blockquote {
-    border-left: 4px solid var(--primary-color);
-    padding-left: var(--spacing-md);
-    margin: var(--spacing-md) 0;
-    font-style: italic;
-}
-
 /* Table Styles */
 table {
     width: 100%;
@@ -216,4 +204,31 @@ th, td {
 
 th {
     background-color: var(--primary-light);
+}
+
+/* Utility Classes */
+.text-center { text-align: center; }
+.indent { margin-left: 30px; }
+.list-indent { padding-left: 60px; }
+
+/* Responsive Design */
+@media (max-width: 850px) {
+    .main-content .container {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        flex: 0 0 100%;
+    }
+    
+    .main-nav {
+        position: static;
+    }
+
+    .profile-image {
+        float: none;
+        display: block;
+        margin: var(--spacing-md) auto;
+        max-width: 200px;
+    }
 }
