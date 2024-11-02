@@ -163,7 +163,7 @@ p {
     }
 
     .profile-image {
-        float: none;
+        float: center;
         display: block;
         margin: var(--spacing-md) auto;
         max-width: 200px;
