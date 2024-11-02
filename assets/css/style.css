@@ -133,21 +133,27 @@ p {
     flex: 1;
 }
 
+/* Content Section Styling */
 .content-section {
-    margin-bottom: var(--spacing-lg);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
 }
+
+.content-section p {
+    flex: 1;
+}
+
+.profile-image {
+    margin-left: var(--spacing-md);
+    max-width: 250px;
+}
+
 
 /* Image Styles */
 .content img {
     height: auto;
     margin: var(--spacing-md) 0;
-}
-
-/* Profile Image Specific Styles */
-.profile-image {
-    float: right;
-    margin: var(--spacing-md);
-    max-width: 250px;
 }
 
 
@@ -227,6 +233,16 @@ th {
         float: none;
         display: block;
         margin: var(--spacing-md) auto;
+        max-width: 200px;
+    }
+	
+	.content-section {
+        flex-direction: column;
+    }
+
+    .profile-image {
+        margin-left: 0;
+        margin-top: var(--spacing-md);
         max-width: 200px;
     }
 }
