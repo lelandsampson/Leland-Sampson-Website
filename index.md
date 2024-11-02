@@ -5,7 +5,7 @@ title: Home
 
 # Welcome! 🎉
 
-<img src="images/sampson-headshot-small.jpg" alt="Leland Sampson headshot" style="float: right; margin: 0 0 20px 20px; max-width: 300px;">
+<img src="/images/sampson-headshot-small.jpg" alt="Leland Sampson headshot" class="profile-image">
 
 **Welcome**
 
