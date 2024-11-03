@@ -1,3 +1,5 @@
+/* css/style.css */
+
 /* CSS Variables */
 :root {
     /* Color variables */
@@ -128,75 +130,13 @@ p {
     padding-left: var(--spacing-xs);
 }
 
-/* Content Area */
+/* Main Content Area */
 .content {
     flex: 1;
 }
 
 .content-section {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-}
-
-.content-section p {
-    flex: 1;
-}
-
-.profile-image {
-    margin-left: var(--spacing-md);
-    max-width: 250px;
-}
-
-/* Adjust for mobile view */
-@media (max-width: 850px) {
-    .main-content .container {
-        flex-direction: column;
-    }
-    
-    .sidebar {
-        flex: 0 0 100%;
-    }
-    
-    .main-nav {
-        position: static;
-    }
-
-    .profile-image {
-        float: center;
-        display: block;
-        margin: var(--spacing-md) auto;
-        max-width: 200px;
-    }
-
-    .content-section {
-        flex-direction: column;
-    }
-
-    .profile-image {
-        margin-left: 0;
-        margin-top: 0;
-    }
-}
-
-/* Image Styles */
-.content img {
-    height: auto;
-    margin: var(--spacing-md) 0;
-}
-
-/* Content Formatting */
-.content ul, 
-.content ol {
-    margin-bottom: var(--spacing-md);
-    padding-left: var(--spacing-lg);
-}
-
-.content blockquote {
-    border-left: 4px solid var(--primary-color);
-    padding-left: var(--spacing-md);
-    margin: var(--spacing-md) 0;
-    font-style: italic;
+    margin-bottom: var(--spacing-lg);
 }
 
 /* Footer Styles */
@@ -222,6 +162,46 @@ p {
     text-decoration: underline;
 }
 
+/* Responsive Design */
+@media (max-width: 850px) {
+    .main-content .container {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        flex: 0 0 100%;
+    }
+    
+    .main-nav {
+        position: static;
+    }
+}
+
+/* Utility Classes */
+.text-center { text-align: center; }
+.indent { margin-left: 30px; }
+.list-indent { padding-left: 60px; }
+
+/* Content Formatting */
+.content ul, 
+.content ol {
+    margin-bottom: var(--spacing-md);
+    padding-left: var(--spacing-lg);
+}
+
+.content img {
+    max-width: 100%;
+    height: auto;
+    margin: var(--spacing-md) 0;
+}
+
+.content blockquote {
+    border-left: 4px solid var(--primary-color);
+    padding-left: var(--spacing-md);
+    margin: var(--spacing-md) 0;
+    font-style: italic;
+}
+
 /* Table Styles */
 table {
     width: 100%;
@@ -237,8 +217,3 @@ th, td {
 th {
     background-color: var(--primary-light);
 }
-
-/* Utility Classes */
-.text-center { text-align: center; }
-.indent { margin-left: 30px; }
-.list-indent { padding-left: 60px; }
