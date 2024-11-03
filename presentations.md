@@ -46,7 +46,7 @@ Presented resources and tips for increasing productivity for solo and small firm
 **2018 Special Libraries Association Conference**  
 Provided Conference attendees an overview of Library services and resources.
 
-<h2 align="center"><a id="trainings">Trainings</h2>
+<h2 align="center"><a id="trainings"></a>Trainings</h2>
 
 ### Technology in the Practice of Law
 **Annually at the University of Maryland Carey School of Law**  
