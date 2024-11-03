@@ -163,9 +163,9 @@ p {
     }
 
     .profile-image {
-        float: center;
+
         display: block;
-        margin: var(--spacing-md) auto;
+        margin: 0 auto;
         max-width: 250px;
     }
 
