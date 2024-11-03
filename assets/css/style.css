@@ -181,7 +181,7 @@ p {
 
 /* Image Styles */
 .content img {
-    height: auto;
+    height: 0 auto;
     margin: 0 auto;
 }
 
