@@ -6,13 +6,13 @@ title: Experience
 <h1 align="center">Professional Organizations</h1>
 
 **Maryland State Bar Association**  
-Member, Artificial Intelligence Task Force
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Artificial Intelligence Task Force
 
 **Maryland Judiciary**  
-Member, Artificial Intelligence Workgroup
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Artificial Intelligence Workgroup
 
 **American Association of Law Librarians**  
-Member, Government Law Libraries section
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Government Law Libraries section
 
 <h1 align="center">Work Experience</h1>
 
