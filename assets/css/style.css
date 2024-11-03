@@ -182,7 +182,7 @@ p {
 /* Image Styles */
 .content img {
     height: auto;
-    margin: var(--spacing-md) 0;
+    margin: 0 auto;
 }
 
 /* Content Formatting */
