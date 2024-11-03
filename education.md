@@ -14,4 +14,4 @@ title: Education
 ## University of Maryland, College Park
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Arts in Government and Politics, *Cum Laude*, awarded May 2011.
 
-**Honors**: Phi Beta Kappa, Dean’s Academic Scholar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Honors**: Phi Beta Kappa, Dean’s Academic Scholar
