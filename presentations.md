@@ -6,9 +6,9 @@ title: Presentations
 <h1 align="center">Presentations and Trainings</h1>
 
 This page contains a list of my presentations and trainings.  
-## [Conference Presentations](#conference-presentations) | [Trainings](#trainings)
+<h2 align="center">[Conference Presentations](#conference-presentations) | [Trainings](#trainings)</h2>
 
-## Conference Presentations
+<h2 align="center">Conference Presentations</h2>
 
 ### [Practical AI: Using AI for Administrative Functions in Bar Associations and Law Firms](/mabc2023.html)
 **2023 Mid-Atlantic Bar Conference**  
@@ -46,7 +46,7 @@ Presented resources and tips for increasing productivity for solo and small firm
 **2018 Special Libraries Association Conference**  
 Provided Conference attendees an overview of Library services and resources.
 
-## Trainings
+<h2 align="center">Trainings</h2>
 
 ### Technology in the Practice of Law
 **Annually at the University of Maryland Carey School of Law**  
