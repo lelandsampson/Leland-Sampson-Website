@@ -5,7 +5,7 @@ title: ABA IOLTA 2024
 
 <h1 align="center">Tech to Make You More Efficient</h1>
 
-<h2 align="center">2024 ABA Forum on Access to Justice </br>
+<h2 align="center">2024 ABA Forum on Access to Justice <br />
 IOLTA Conference</h2>
 
 ## [Presentation Slides](files/2024_IOLTA_Conference_Tech_to_make_you_more_efficient.pdf)
