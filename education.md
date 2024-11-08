@@ -3,7 +3,7 @@ layout: default
 title: Education
 ---
 
-<h1 align="center"> Education</h1>
+<h1 align="center">Education</h1>
 
 ## University of Maryland, College Park
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Library and Information Science, expected December, 2025.
