@@ -13,7 +13,6 @@ This page contains a list of my presentations and trainings.
 ### Practical AI: Using AI for Administrative Functions in Bar Associations and Law Firms
 **2023 Mid-Atlantic Bar Conference**  
 This presentation at the 45th annual conference included in-depth discussions of how organizations can make use of AI tools to improve efficiency and workflow. Visit the event page for more details and links to tools and tips.
-
 [Presentation Slides](files/MABC-2023-Practical-AI-Cookbook.pdf)
 
 ### 30 Tech Tips: Using Software, Hardware, Data, and AI to get a running start at home, on the road, or in the office
