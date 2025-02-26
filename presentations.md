@@ -10,6 +10,34 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
+### Tech Tips and Practical AI, Part 2: A deep breath and a deeper dive
+**2024 ABA Forum on Building Access to Justice for All**  
+Presentation highlighted a variety of tools featuring deep dives on how IOLTA funders could leverage generative AI tools to analyze programs and integrate AI tools into existing workflows.
+
+### Generative AI Seminar
+**2024 Hawaii State Bar Association Convention**  
+Presentation provided an overview of generative AI, including descriptions and demonstrations of commercial and legal tools, a discussion of deep fakes, and how to craft more effective prompts.
+
+### Practical Tech Tips – AI Edition
+**2024 MSBA Legal Summit and Annual Meeting**  
+A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.
+
+### We Sow, You Reap: Gathering a Bounty of Legal Information
+**2024 Maryland Library Association Annual Conference**  
+Presented a session on effectively using legal reference materials including Court Help pages, the People’s Law Library, and Frontlines Legal Reference training for public libraries.
+
+### Tech-Savvy: Tools, Tips, and Tricks for Tomorrow’s Law Librarians
+**2024 Law Library Association of Maryland Legal Research Institute**  
+Through real-world scenarios this presentation demonstrated a variety of tools and tips to help law librarians stay at the forefront of legal information management.
+
+### Practical AI
+**2024 MSBA Solo and Small Firm Section**  
+Presented a webinar focused on useful day-to-day applications of generative artificial intelligence (AI).
+
+### 40 Tech Tips and Practical AI
+**2023 ABA Forum on Building Access to Justice for All**  
+Presented, to a nationwide audience, tools that may be useful in day-to-day work with a special focus on generative artificial intelligence tools and techniques.
+
 ### Practical AI: Using AI for Administrative Functions in Bar Associations and Law Firms
 **2023 Mid-Atlantic Bar Conference**  
 This presentation at the 45th annual conference included in-depth discussions of how organizations can make use of AI tools to improve efficiency and workflow. Visit the event page for more details and links to tools and tips.
@@ -74,92 +102,3 @@ Provided prospective law clerks an overview of research databases and reference 
 ### Best Practices for Online Legal Research
 **2018 Frederick County Bar Association**  
 Presented creative and cost-effective legal research resources at monthly Bar luncheon.
-
-```markdown
----
-layout: default
-title: Presentations
----
-
-<h1 align="center">Presentations and Trainings</h1>
-
-This page contains a list of my presentations and trainings.  
-<h2 align="center"><a href="#conference-presentations">Conference Presentations</a> | <a href="#trainings">Trainings</a></h2>
-
-<h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
-
-### Tech Tips and Practical AI, Part 2: A deep breath and a deeper dive
-**2024 ABA Forum on Building Access to Justice for All**  
-Presentation highlighted a variety of tools featuring deep dives on how IOLTA funders could leverage generative AI tools to analyze programs and integrate AI tools into existing workflows.
-
-### Generative AI Seminar
-**2024 Hawaii State Bar Association Convention**  
-Presentation provided an overview of generative AI, including descriptions and demonstrations of commercial and legal tools, a discussion of deep fakes, and how to craft more effective prompts.
-
-### Practical Tech Tips – AI Edition
-**2024 MSBA Legal Summit and Annual Meeting**  
-A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.
-
-### We Sow, You Reap: Gathering a Bounty of Legal Information
-**2024 Maryland Library Association Annual Conference**  
-Presented a session on effectively using legal reference materials including Court Help pages, the People’s Law Library, and Frontlines Legal Reference training for public libraries.
-
-### Tech-Savvy: Tools, Tips, and Tricks for Tomorrow’s Law Librarians
-**2024 Law Library Association of Maryland Legal Research Institute**  
-Through real-world scenarios this presentation demonstrated a variety of tools and tips to help law librarians stay at the forefront of legal information management.
-
-### Practical AI
-**2024 MSBA Solo and Small Firm Section**  
-Presented a webinar focused on useful day-to-day applications of generative artificial intelligence (AI).
-
-### 40 Tech Tips and Practical AI
-**2023 ABA Forum on Building Access to Justice for All**  
-Presented, to a nationwide audience, tools that may be useful in day-to-day work with a special focus on generative artificial intelligence tools and techniques.
-
-### Practical AI: Using AI for Administrative Functions in Bar Associations and Law Firms
-**2023 Mid-Atlantic Bar Conference**  
-Presented on AI tools and how they may be safely and ethically used to improve office efficiency without negatively impacting attorney work product.
-[Presentation Slides](files/MABC-2023-Practical-AI-Cookbook.pdf)
-
-### 30 Tech Tips: Using Software, Hardware, Data, and AI in Law Practice
-**2023 MSBA Legal Summit and Annual Meeting**  
-Presented information on emerging technologies with a special focus on AI and descriptions of scenarios where AI tools may be helpful in law practice.
-
-### Maryland Court Information Resources
-**2023 MLA/DLA Conference**  
-Presented information on finding court forms, locating court help centers and videos, navigating the Maryland Courts and People’s Law Library websites, and an overview of TMSLL services and resources.
-
-### Technology Tips for Solo and Small Firm Practice
-**2022 MSBA Solo and Small Firm Summit**  
-Presented on practical technology tips and provided an overview of cybersecurity considerations necessary for safe remote law practice.
-
-### Independent Internet Research
-**2022 Maryland Judicial College**  
-Provided judges and law clerks with strategies for locating accurate and reliable information online. Demonstrated library database and catalog resources.
-
-### Advancing Justice: Access and Navigate Maryland Legal Information, Court Tools, and Resources
-**2022 MLA/DLA Conference**  
-Provided an overview of legal resources of use to reference librarians in public libraries.
-
-### 50 Tech Tips for Legal Services and Beyond!
-**2021 Partners for Justice Conference**  
-Discussed ways legal service organizations can utilize emerging technology solutions to improve office efficiency and meet client needs.
-
-### Technology Tools to Increase Office Efficiency
-**2019 MSBA Solo Summit**  
-Presented resources and tips for increasing productivity for solo and small firm practitioners.
-
-### Legal Information Resources at the Maryland State Law Library
-**2018 Special Libraries Association Conference**  
-Provided conference attendees an overview of Library services and resources.
-
-<h2 align="center"><a id="trainings"></a>Trainings</h2>
-
-### Technology in the Practice of Law
-**University of Maryland Carey School of Law (Annually)**  
-Describe for students how technology is changing the legal field and how to navigate an always evolving environment.
-
-### Maryland Electronic Courts (MDEC) File and Serve Training
-**Various Courts and Judiciary Locations**  
-Trained staff on how to use the public facing portion of MDEC and offer support for the Bar and members of the public.
-```
