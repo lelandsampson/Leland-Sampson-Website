@@ -37,7 +37,7 @@ Through real-world scenarios this presentation demonstrated a variety of tools a
 
 ### Practical AI
 **2024 MSBA Solo and Small Firm Section**  
-Presented a webinar focused on useful day-to-day applications of generative artificial intelligence (AI).
+Presented a webinar focused on useful day-to-day applications of generative artificial intelligence (AI).  
 [Presentation Slides](files/2024-solo-small-firm.pdf)
 
 ### 40 Tech Tips and Practical AI
