@@ -12,7 +12,7 @@ This page contains a list of my presentations and trainings.
 
 ### Generative AI for Law Librarians
 **2025 Law Library Association of Maryland January Meeting**  
-Presented a webinar on Generative AI for LLAM members, covering its functionality, effective prompting techniques, and applications in legal research. Session designed to engage participants of all experience levels, from beginners to advanced users.
+Presented a webinar on Generative AI for LLAM members, covering its functionality, effective prompting techniques, and applications in legal research. Session designed to engage participants of all experience levels, from beginners to advanced users.  
 [Presentation Slides](files/2025-LLAM-GenAI-webinar.pdf)
 
 ### Tech Tips and Practical AI, Part 2: A deep breath and a deeper dive
@@ -46,7 +46,7 @@ Presented, to a nationwide audience, tools that may be useful in day-to-day work
 
 ### Practical AI: Using AI for Administrative Functions in Bar Associations and Law Firms
 **2023 Mid-Atlantic Bar Conference**  
-This presentation at the 45th annual conference included in-depth discussions of how organizations can make use of AI tools to improve efficiency and workflow. Visit the event page for more details and links to tools and tips.
+This presentation at the 45th annual conference included in-depth discussions of how organizations can make use of AI tools to improve efficiency and workflow. Visit the event page for more details and links to tools and tips.  
 [Presentation Handout](files/2023-MABC-AI-Handout.pdf) | [Presentation Slides](files/2023-MABC-Practical-AI-Cookbook.pdf)
 
 ### 30 Tech Tips: Using Software, Hardware, Data, and AI to get a running start at home, on the road, or in the office
