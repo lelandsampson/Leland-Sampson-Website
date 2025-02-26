@@ -10,6 +10,11 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
+### Generative AI for Law Librarians
+**2025 Law Library Association of Maryland January Meeting**  
+Presented a webinar on Generative AI for LLAM members, covering its functionality, effective prompting techniques, and applications in legal research. Session designed to engage participants of all experience levels, from beginners to advanced users.
+[Presentation Slides](files/2025-LLAM-GenAI-webinar.pdf)
+
 ### Tech Tips and Practical AI, Part 2: A deep breath and a deeper dive
 **2024 ABA Forum on Building Access to Justice for All**  
 Presentation highlighted a variety of tools featuring deep dives on how IOLTA funders could leverage generative AI tools to analyze programs and integrate AI tools into existing workflows.
@@ -57,8 +62,8 @@ A patron walks up to the information desk and says, “I need a form to file wit
 
 ### Maryland Court Information Resources
 **2022 MLA/DLA Conference**  
-The Maryland Judiciary offers a broad range of legal information and assistance. This presentation described information and resources available through the Maryland Courts website and the Thurgood Marshall State Law Library (TMSLL). Topics included finding court forms, locating court help centers and videos, navigating the Maryland Courts and People’s Law Library websites, and an overview of TMSLL services and resources.  
-[Presentation PowerPoint](files/2022-MLA-DLA-Advancing-Justice.pdf)
+The Maryland Judiciary offers a broad range of legal information and assistance. This presentation described information and resources available through the Maryland Courts website and the Thurgood Marshall State Law Library (TMSLL). Topics included finding court forms, locating court help centers and videos, navigating the Maryland Courts and People’s Law Library websites, and an overview of TMSLL services and resources.
+[Presentation Slides](files/2022-MLA-DLA-Advancing-Justice.pdf)
 
 ### Technology Tips for Solo and Small Firm Practice
 **2022 Maryland State Bar Association Solo and Small Firm Summit**  
