@@ -15,6 +15,11 @@ This page contains a list of my presentations and trainings.
 Presented a webinar on Generative AI for LLAM members, covering its functionality, effective prompting techniques, and applications in legal research. Session designed to engage participants of all experience levels, from beginners to advanced users.  
 [Presentation Slides](files/2025-LLAM-GenAI-webinar.pdf)
 
+### People's Law Library Update and Generative AI for Law Librarians
+**2024 Conference of Maryland Court Law Librarians Annual Conference**  
+Presented a session highlighting People's Law Library developments and highlighting ways Circuit Court law librarians can incorporate generative AI tools into their research and workflows.  
+[Presentation Slides](files/2024-CMCLLD-PLL-Update-GenAI.pdf)
+
 ### Tech Tips and Practical AI, Part 2: A deep breath and a deeper dive
 **2024 ABA Forum on Building Access to Justice for All**  
 Presentation highlighted a variety of tools featuring deep dives on how IOLTA funders could leverage generative AI tools to analyze programs and integrate AI tools into existing workflows.  
@@ -28,7 +33,7 @@ Presentation provided an overview of generative AI, including descriptions and d
 ### Practical Tech Tips – AI Edition
 **2024 MSBA Legal Summit and Annual Meeting**  
 A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.  
-[Presentation Slides](files/2024-MSBA-Practical-AI-Slides.pdf)
+[Presentation Slides](files/2024-MSBA-Practical-AI-Slides.pdf) | [Handout] (files/2024-MSBA-Handout.pdf)
 
 ### We Sow, You Reap: Gathering a Bounty of Legal Information
 **2024 Maryland Library Association Annual Conference**  
