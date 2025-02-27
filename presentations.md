@@ -17,15 +17,18 @@ Presented a webinar on Generative AI for LLAM members, covering its functionalit
 
 ### Tech Tips and Practical AI, Part 2: A deep breath and a deeper dive
 **2024 ABA Forum on Building Access to Justice for All**  
-Presentation highlighted a variety of tools featuring deep dives on how IOLTA funders could leverage generative AI tools to analyze programs and integrate AI tools into existing workflows.
+Presentation highlighted a variety of tools featuring deep dives on how IOLTA funders could leverage generative AI tools to analyze programs and integrate AI tools into existing workflows.  
+[Presentation Slides](files/2024_IOLTA_Conference_Tech_to_make_you_more_efficient.pdf)
 
 ### Generative AI Seminar
 **2024 Hawaii State Bar Association Convention**  
-Presentation provided an overview of generative AI, including descriptions and demonstrations of commercial and legal tools, a discussion of deep fakes, and how to craft more effective prompts.
+Presentation provided an overview of generative AI, including descriptions and demonstrations of commercial and legal tools, a discussion of deep fakes, and how to craft more effective prompts.  
+[Presentation Slides](files/2024-Hawaii-GenAI-Bar-Conference.pdf)
 
 ### Practical Tech Tips – AI Edition
 **2024 MSBA Legal Summit and Annual Meeting**  
-A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.
+A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.  
+[Presentation Slides](files/2024-MSBA-Practical-AI-Slides.pdf)
 
 ### We Sow, You Reap: Gathering a Bounty of Legal Information
 **2024 Maryland Library Association Annual Conference**  
