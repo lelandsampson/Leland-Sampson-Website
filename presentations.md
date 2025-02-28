@@ -30,6 +30,11 @@ Presentation highlighted a variety of tools featuring deep dives on how IOLTA fu
 Presentation provided an overview of generative AI, including descriptions and demonstrations of commercial and legal tools, a discussion of deep fakes, and how to craft more effective prompts.  
 [Presentation Slides](files/2024-Hawaii-GenAI-Bar-Conference.pdf)
 
+### Generative AI: Revolutionizing Efficiencies for Law Librarians
+**2024 American Association of Law Librarians Annual Meeting**  
+Presented a concrete example of how generative AI tools can act in various roles to help law librarians expand their skills and solve problems in novel ways.   
+[Presentation Slides](files/2024-AALL-GenAI-Revolutionizing-Efficiencies.pdf)
+
 ### Practical Tech Tips – AI Edition
 **2024 MSBA Legal Summit and Annual Meeting**  
 A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.  
