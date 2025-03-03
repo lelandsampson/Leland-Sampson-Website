@@ -58,7 +58,8 @@ Presented a webinar focused on useful day-to-day applications of generative arti
 
 ### 40 Tech Tips and Practical AI
 **2023 ABA Forum on Building Access to Justice for All**  
-Presented, to a nationwide audience, tools that may be useful in day-to-day work with a special focus on generative artificial intelligence tools and techniques.
+Presented, to a nationwide audience, tools that may be useful in day-to-day work with a special focus on generative artificial intelligence tools and techniques.  
+[Presentation Handout](files/2023-aba-iolta-conference-tech-ai-slides.pdf) | [Presentation Slides](files/2023-aba-iolta-conference-tech-ai-handout.pdf)
 
 ### Practical AI: Using AI for Administrative Functions in Bar Associations and Law Firms
 **2023 Mid-Atlantic Bar Conference**  
