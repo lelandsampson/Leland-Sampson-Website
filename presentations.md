@@ -79,12 +79,13 @@ A patron walks up to the information desk and says, “I need a form to file wit
 
 ### Maryland Court Information Resources
 **2022 MLA/DLA Conference**  
-The Maryland Judiciary offers a broad range of legal information and assistance. This presentation described information and resources available through the Maryland Courts website and the Thurgood Marshall State Law Library (TMSLL). Topics included finding court forms, locating court help centers and videos, navigating the Maryland Courts and People’s Law Library websites, and an overview of TMSLL services and resources.
+The Maryland Judiciary offers a broad range of legal information and assistance. This presentation described information and resources available through the Maryland Courts website and the Thurgood Marshall State Law Library (TMSLL). Topics included finding court forms, locating court help centers and videos, navigating the Maryland Courts and People’s Law Library websites, and an overview of TMSLL services and resources.  
 [Presentation Slides](files/2022-MLA-DLA-Advancing-Justice.pdf)
 
 ### Technology Tips for Solo and Small Firm Practice
 **2022 Maryland State Bar Association Solo and Small Firm Summit**  
 Presented on practical technology tips attendees could start using immediately. Also provided an overview of cybersecurity considerations necessary for safe remote law practice.
+[Presentation Slides](files/2022-MSBA-Solo-Small-Firm-tech-presentation.pdf)
 
 ### 50 Tech Tips for Legal Services and Beyond!
 **2021 Partners for Justice Conference**  
