@@ -38,7 +38,7 @@ Presented a concrete example of how generative AI tools can act in various roles
 ### Practical Tech Tips – AI Edition
 **2024 MSBA Legal Summit and Annual Meeting**  
 A presentation on practical, cost-effective AI tools for improving efficiency in legal and library work. Covered tools for content generation, text analysis, and multimedia translation, with a focus on enhancing productivity, data security, and service quality.  
-[Presentation Slides](files/2024-MSBA-Practical-AI-Slides.pdf) | [Handout] (files/2024-MSBA-Handout.pdf)
+[Presentation Slides](files/2024-MSBA-Practical-AI-Slides.pdf) | [Handout](files/2024-MSBA-Handout.pdf)
 
 ### We Sow, You Reap: Gathering a Bounty of Legal Information
 **2024 Maryland Library Association Annual Conference**  
