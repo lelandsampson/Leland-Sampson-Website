@@ -42,7 +42,9 @@ A presentation on practical, cost-effective AI tools for improving efficiency in
 
 ### We Sow, You Reap: Gathering a Bounty of Legal Information
 **2024 Maryland Library Association Annual Conference**  
-Presented a session on effectively using legal reference materials including Court Help pages, the People’s Law Library, and Frontlines Legal Reference training for public libraries.
+Presented a session on effectively using legal reference materials including Court Help pages, the People’s Law Library, and Frontlines Legal Reference training for public libraries.  
+[Presentation Slides](files/2024-MLA-DLA-We-Sow,-You-Reap.pdf)
+
 
 ### Tech-Savvy: Tools, Tips, and Tricks for Tomorrow’s Law Librarians
 **2024 Law Library Association of Maryland Legal Research Institute**  
