@@ -46,7 +46,8 @@ Presented a session on effectively using legal reference materials including Cou
 
 ### Tech-Savvy: Tools, Tips, and Tricks for Tomorrow’s Law Librarians
 **2024 Law Library Association of Maryland Legal Research Institute**  
-Through real-world scenarios this presentation demonstrated a variety of tools and tips to help law librarians stay at the forefront of legal information management.
+Through real-world scenarios this presentation demonstrated a variety of tools and tips to help law librarians stay at the forefront of legal information management.  
+[Presentation Slides](files/2024-LLAM-LRI-Tech-Savvy.pdf)
 
 ### Practical AI
 **2024 MSBA Solo and Small Firm Section**  
