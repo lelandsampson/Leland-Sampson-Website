@@ -111,6 +111,11 @@ Describe for students how technology is changing the legal field and how to navi
 Presented to a class of volunteers how to clearly communicate legal information, in plain language, to PLL's audience.
 [2024 Presentation Slides](files/2024-UB-Community-Development-Clinic.pdf)
 
+### Introduction to TMSLL Collections
+**2024 Law Library of Congress**  
+Presented an introduction to the collections of the Maryland State Law Library, including tips and suggestions for experience researchers.
+[Presentation Slides](files/2024-TMSLL-LOC-Webinar.pdf)
+
 ### Maryland Electronic Courts (MDEC) File and Serve Training
 **Various courts and Judiciary locations**  
 Trained staff on how to use the public-facing portion of MDEC and offer support for the Bar and members of the public.
