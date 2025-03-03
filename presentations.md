@@ -102,8 +102,14 @@ Provided Conference attendees an overview of Library services and resources.
 <h2 align="center"><a id="trainings"></a>Trainings</h2>
 
 ### Technology in the Practice of Law
-**Annually at the University of Maryland Carey School of Law**  
+**Annually at the University of Baltimore School of Law**  
 Describe for students how technology is changing the legal field and how to navigate an always-evolving environment.
+[2024 Presentation Slides](files/2024-UB-Technology-in-Law-Practice.pdf)
+
+### Writing for the People's Law Library
+**University of Baltimore School of Law Community Development Clinic**  
+Presented to a class of volunteers how to clearly communicate legal information, in plain language, to PLL's audience.
+[2024 Presentation Slides](files/2024-UB-Community-Development-Clinic.pdf)
 
 ### Maryland Electronic Courts (MDEC) File and Serve Training
 **Various courts and Judiciary locations**  
@@ -115,9 +121,8 @@ Presented a litany of resources available to self-represented litigants. Resourc
 
 ### Independent Internet Research
 **2022 Maryland Judicial College**  
-- Provided an overview of how to conduct an effective Internet-based research project.
-- Explained how to locate reliable resources.
-- Walked through a list of curated internal and external resources relevant to legal research.
+Presented strategies for conducting effective online research projects and locating reliable resources. Walked participants through a curated list of internal and external platforms, emphasizing their relevance to legal research.
+[2024 Presentation Slides](files/2022-Independent-Internet-Research.pdf)
 
 ### Legal Research for Maryland State Court Clerkships
 **2022 University of Maryland, Carey School of Law**  
