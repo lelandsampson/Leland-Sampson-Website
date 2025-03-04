@@ -109,7 +109,7 @@ Describe for students how technology is changing the legal field and how to navi
 ### Writing for the People's Law Library
 **University of Baltimore School of Law Community Development Clinic**  
 Presented to a class of volunteers how to clearly communicate legal information, in plain language, to PLL's audience.  
-[2024 Presentation Slides](files/2024-UB-Community-Development-Clinic.pdf)
+[Presentation Slides](files/2024-UB-Community-Development-Clinic.pdf)
 
 ### Introduction to TMSLL Collections
 **2024 Law Library of Congress**  
