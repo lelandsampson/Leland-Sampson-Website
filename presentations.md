@@ -10,9 +10,15 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
+### Resistance Is NOT Futile: Strategies for Integrating a Critical AI Perspective in Libraries
+**2025 American Association of Law Librarians Annual Meeting**  
+The rapid integration of AI in legal practice, government, and academia raises significant ethical and practical concerns for librarians and information professionals, including impacts on misinformation, critical thinking, the environment, and labor displacement. These issues are often overlooked in AI education, but as experts in information management and procurement, librarians are uniquely positioned to critically evaluate these tools, advocate for responsible use, and shape AI's role within their institutions. This program will equip law librarians and legal educators to integrate these crucial ethical considerations into AI teaching, evaluation, and implementation, fostering a more thoughtful approach to AI adoption.
+[Presentation Slides](files/2025-aall-critical-ai.pdf)
+
 ### Tech to Make You More Efficient: Leveraging Mainstream Al tools in Your Organization or Practice
 **2025 Partners for Justice Conference**  
-This session gave attendees practical insights into how widely available AI and other technology tools could significantly boost productivity in law practice or other business contexts. Building upon the foundational knowledge shared in last year's session, we introduced more advanced tools and use cases for modestly priced AI tools from OpenAI, Microsoft, Zoom, and others. The session focused on cost-effective solutions and efficiency hacks. We walked participants through real-world examples, including public chatbots, the development of GPT models, and the use of AI for automating workflows. Key topics included public chatbots and their practical applications, mainstream AI productivity tools, the use of ChatGPT for coding and retrieval-augmented generation (RAG), and data visualization through AI.[Presentation Slides](files/2025-msba-ai.pdf)
+This session gave attendees practical insights into how widely available AI and other technology tools could significantly boost productivity in law practice or other business contexts. Building upon the foundational knowledge shared in last year's session, we introduced more advanced tools and use cases for modestly priced AI tools from OpenAI, Microsoft, Zoom, and others. The session focused on cost-effective solutions and efficiency hacks. We walked participants through real-world examples, including public chatbots, the development of GPT models, and the use of AI for automating workflows. Key topics included public chatbots and their practical applications, mainstream AI productivity tools, the use of ChatGPT for coding and retrieval-augmented generation (RAG), and data visualization through AI.
+[Presentation Slides](files/2025-msba-ai.pdf)
 
 ### Practical AI and Automation Tools for Maryland Legal Nonprofits
 **2025 MSBA Legal Summit and Annual Meeting**  
