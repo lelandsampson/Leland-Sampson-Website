@@ -10,13 +10,12 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
-### Tech to Make You More Efficient: Leveraging Mainstream Al tools in Your Organization
-or Practice
+### Tech to Make You More Efficient: Leveraging Mainstream Al tools in Your Organization or Practice
 **2025 Partners for Justice Conference**  
 This session gave attendees practical insights into how widely available AI and other technology tools could significantly boost productivity in law practice or other business contexts. Building upon the foundational knowledge shared in last year's session, we introduced more advanced tools and use cases for modestly priced AI tools from OpenAI, Microsoft, Zoom, and others. The session focused on cost-effective solutions and efficiency hacks. We walked participants through real-world examples, including public chatbots, the development of GPT models, and the use of AI for automating workflows. Key topics included public chatbots and their practical applications, mainstream AI productivity tools, the use of ChatGPT for coding and retrieval-augmented generation (RAG), and data visualization through AI.[Presentation Slides](files/2025-msba-ai.pdf)
 
 ### Practical AI and Automation Tools for Maryland Legal Nonprofits
-**2025 Partners for Justice Conference**  
+**2025 MSBA Legal Summit and Annual Meeting**  
 We shared a spectrum of reasonably safe and trustworthy generative AI and automation tools and techniques that small organizations with little or no technical support could implement easily or with help from within the community. First, we looked at a few of the major commercial off-the-shelf tools for office efficiency and provided a cookbook approach to developing our own solutions. Then we explored a few bigger AI and automation projects underway in Maryland and thought about how they could directly benefit the community and provide models for further development. Finally, we looked at elements that went into an AI Use Policy and gave participants some insights on balancing usefulness and information safety.
 [Presentation Slides](files/2025-pfj-practical-ai.pdf)
 
