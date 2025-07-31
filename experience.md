@@ -6,7 +6,7 @@ title: Experience
 <h1 align="center">Professional Organizations</h1>
 
 **Maryland State Bar Association**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Artificial Intelligence Task Force
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-Chair, Artificial Intelligence and Legal Technology Task Force
 
 **Maryland Judiciary**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Artificial Intelligence Workgroup
