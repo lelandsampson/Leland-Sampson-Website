@@ -19,10 +19,10 @@ title: AI Summit for Legal Aid Innovation in Delaware
 **Lee Sampson** brings together his love of technology and the law by managing the People’s Law Library legal information website at the Maryland Thurgood Marshall State Law Library. He also serves as the Co-Chair of the Maryland State Bar Association’s AI and Legal Technology Task Force and the Maryland Judiciary’s Artificial Intelligence Workgroup. Leland’s work strives to close the justice gap with the responsible use of AI tools and often shares these insights with fellow lawyers and law librarians. 
 
 
-<h2 align="center">Slides </h2>
+<h2 align="center">Slides & Links</h2>
 [Dave's slides](/files/****.pdf) 
 
 [Russ's slides](/files/mla-leveraging-ai.pdf) 
 
-[Lee's slides](/files/***.pdf) 
+**[Lee's slides](/files/***.pdf) **
 
