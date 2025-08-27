@@ -27,11 +27,27 @@ title: AI Summit for Legal Aid Innovation in Delaware
 
 [**Lee Sampson**](https://www.linkedin.com/in/leland-sampson-esq/) brings together his love of technology and the law by managing the People’s Law Library legal information website at the Maryland Thurgood Marshall State Law Library. He also serves as the Co-Chair of the Maryland State Bar Association’s AI and Legal Technology Task Force and the Maryland Judiciary’s Artificial Intelligence Workgroup. Leland’s work strives to close the justice gap with the responsible use of AI tools and often shares these insights with fellow lawyers and law librarians. 
 
-
+---
 <h2 align="center">Slides & Links</h2>
-[**Dave's slides**](/files/Dave-ChatGPT.pdf) 
+[**Dave's slides**](/files/2025-Delaware-AI/Dave-ChatGPT.pdf) 
 
-[**Russ's slides**](/files/mla-leveraging-ai.pdf) 
+[**Russ's slides**](/files/2025-Delaware-AI/mla-leveraging-ai.pdf) 
 
-[**Lee's slides**](/files/***.pdf) 
+[**Lee's slides**](/files/2025-Delaware-AI/sampson-delaware-ai.pdf) 
+
+Links in Lee's slides:
+- [Tyler Technologies Document Automation](https://www.tylertech.com/products/document-automation)
+- [Courtsmart transcripts](https://www.courtsmart.com/technology/speech-recognition/)
+- [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/deploy-chat-web-app)
+- [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
+- [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
+- [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
+- [National Center for State Courts: Modernizing unauthorized practice of law regulations to embrace technology, improve access to justice](https://www.ncsc.org/resources-courts/modernizing-unauthorized-practice-law-regulations-embrace-technology-improve)
+- [Certifying Legal AI Assistants for Unrepresented Litigants: A Global Survey of Access to Civil Justice, Unauthorized Practice of Law, and AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901658)
+- [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)
+- [ChatGPT self defense summary](/files/2025-Delaware-AI/Chat-GPT-self-defense.pdf)
+- [ChatGPT annotated bibliography](/files/2025-Delaware-AI/Chat-GPT-self-defense-bibliography.pdf)
+- [Gemini self defense summary](/files/2025-Delaware-AI/Gemini-Self-Defense.pdf)
+
+
 
