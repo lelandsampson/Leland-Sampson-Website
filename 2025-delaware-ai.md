@@ -44,7 +44,7 @@ Links in Lee's slides:
 - [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 - [National Center for State Courts: Modernizing unauthorized practice of law regulations to embrace technology, improve access to justice](https://www.ncsc.org/resources-courts/modernizing-unauthorized-practice-law-regulations-embrace-technology-improve)
 - [Certifying Legal AI Assistants for Unrepresented Litigants: A Global Survey of Access to Civil Justice, Unauthorized Practice of Law, and AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901658)
-- [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)
+- [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
 - [ChatGPT self defense summary](/files/2025-Delaware-AI/Chat-GPT-self-defense.pdf)
 - [ChatGPT annotated bibliography](/files/2025-Delaware-AI/Chat-GPT-self-defense-bibliography.pdf)
 - [Gemini self defense summary](/files/2025-Delaware-AI/Gemini-Self-Defense.pdf)
