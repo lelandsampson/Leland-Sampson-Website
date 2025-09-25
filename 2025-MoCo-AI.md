@@ -4,6 +4,7 @@ title: The Use of Artificial Intelligence in the Legal Profession
 ---
 
 <h1 align="center"><strong>The Use of Artificial Intelligence in the Legal Profession</strong> </h1>
+<h2 align="center">Bar Foundation of Montgomery County</h2>
 ---
 
 <h2 align="center">Presenters </h2>
