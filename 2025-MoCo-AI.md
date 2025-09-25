@@ -36,7 +36,6 @@ title: The Use of Artificial Intelligence in the Legal Profession
 [**Lee's slides**](/files/2025-moco-ai/sampson-moco-ai.pdf) 
 
 Links in Lee's slides:
-- [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/deploy-chat-web-app)
 - [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
 - [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
 - [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
