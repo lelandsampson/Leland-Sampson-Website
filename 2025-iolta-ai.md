@@ -34,7 +34,7 @@ title: Practical AI Tools to Increase Efficiency for Legal Nonprofits: NAIP Memb
 
 [**Russ's slides**](/files/2025-Delaware-AI/mla-leveraging-ai.pdf) 
 
-[**Lee's slides**](/files/***.pdf) 
+[**Lee's slides**](/files/2025-iolta/Lee-Atlanta.pdf) 
 
 Links in Lee's slides:
 - [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
