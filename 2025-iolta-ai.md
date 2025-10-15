@@ -40,9 +40,8 @@ Links in Lee's slides:
 - [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
 - [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
 - [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
-- [ChatGPT self defense summary](/files/2025-Delaware-AI/Chat-GPT-self-defense.pdf)
-- [ChatGPT annotated bibliography](/files/2025-Delaware-AI/Chat-GPT-self-defense-bibliography.pdf)
-- [Gemini self defense summary](/files/2025-Delaware-AI/Gemini-Self-Defense.pdf)
+
+
 
 
 
