@@ -32,7 +32,7 @@ title: Practical AI Tools to Increase Efficiency for Legal Nonprofits: NAIP Memb
 <h2 align="center">Slides & Links</h2>
 [**Dave's slides**](/files/***.pdf) 
 
-[**Russ's slides**](/files/***.pdf) 
+[**Russ's slides**](/files/2025-Delaware-AI/mla-leveraging-ai.pdf) 
 
 [**Lee's slides**](/files/***.pdf) 
 
