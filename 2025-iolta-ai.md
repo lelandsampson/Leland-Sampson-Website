@@ -37,11 +37,10 @@ title: Practical AI Tools to Increase Efficiency for Legal Nonprofits: NAIP Memb
 [**Lee's slides**](/files/2025-iolta/Lee-Atlanta.pdf) 
 
 Links in Lee's slides:
-- [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
-- [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
 - [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
-
-
+-[*Ferris v. Amazon*, 778 F.Supp.3d 879 (2025)](https://scholar.google.com/scholar_case?case=6813007439816866109&q=778+F.Supp.3d+879&hl=en&as_sdt=20000003)
+- [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
+- [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
 
 
 
