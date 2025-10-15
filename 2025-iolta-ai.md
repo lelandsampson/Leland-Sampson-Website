@@ -40,7 +40,8 @@ Links in Lee's slides:
 - [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
 -[*Ferris v. Amazon*, 778 F.Supp.3d 879 (2025)](https://scholar.google.com/scholar_case?case=6813007439816866109&q=778+F.Supp.3d+879&hl=en&as_sdt=20000003)
 - [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
-- [MSBA publication: An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf)
+-[Why Large Language Models Hallucinate](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)
+
 
 
 
