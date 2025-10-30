@@ -10,6 +10,10 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
+### How to Implement AI in your Court
+**2025 Mid-Atlantic Association for Court Management Annual Meeting**  
+The use of artificial intelligence (AI) in professional settings changes almost daily. The presenters guided participants through the process of utilizing AI in their court, including creating and updating guidelines and policies, engaging and educating personnel in the use of AI, and considerations and challenges of implementing AI tools. The session will also provided an accessible summary of the technology behind generative AI and introduced a framework for planning future AI projects.
+
 ### Resistance Is NOT Futile: Strategies for Integrating a Critical AI Perspective in Libraries
 **2025 American Association of Law Librarians Annual Meeting**  
 The rapid integration of AI in legal practice, government, and academia raises significant ethical and practical concerns for librarians and information professionals, including impacts on misinformation, critical thinking, the environment, and labor displacement. These issues are often overlooked in AI education, but as experts in information management and procurement, librarians are uniquely positioned to critically evaluate these tools, advocate for responsible use, and shape AI's role within their institutions. This program will equip law librarians and legal educators to integrate these crucial ethical considerations into AI teaching, evaluation, and implementation, fostering a more thoughtful approach to AI adoption.  
