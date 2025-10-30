@@ -10,6 +10,10 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
+### Practical AI Tools to Increase Efficiency for Legal Nonprofits
+**2025 ABA Forum on Building Access to Justice for All**  
+Shared a spectrum of reasonably safe and trustworthy generative AI and automation tools and techniques that a range of legal services organizations can implement easily or with help from within the community. 
+
 ### How to Implement AI in your Court
 **2025 Mid-Atlantic Association for Court Management Annual Meeting**  
 The use of artificial intelligence (AI) in professional settings changes almost daily. The presenters guided participants through the process of utilizing AI in their court, including creating and updating guidelines and policies, engaging and educating personnel in the use of AI, and considerations and challenges of implementing AI tools. The session will also provided an accessible summary of the technology behind generative AI and introduced a framework for planning future AI projects.
