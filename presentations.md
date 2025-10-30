@@ -10,7 +10,7 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
-### Practical AI Tools to Increase Efficiency for Legal Nonprofits
+### [Practical AI Tools to Increase Efficiency for Legal Nonprofits](/2025-iolta-ai)
 **2025 ABA Forum on Building Access to Justice for All**  
 Shared a spectrum of reasonably safe and trustworthy generative AI and automation tools and techniques that a range of legal services organizations can implement easily or with help from within the community. 
 
