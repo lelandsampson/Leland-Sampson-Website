@@ -7,11 +7,31 @@ title: OMM Interview 11/5/25
 
 ## Resources referenced in interview 
 
-[Base prompt](https://mitenmit.github.io/gpt/) 
+###Wife's business use case - customer leads
+- [Instructions for downloading leads JSON][/files/omm/leads.pdf)
+- [JSON data file](/files/omm/howard-1.json)
+- [Business data prompt](/files/omm/business-data-prompt.pdf)
+- [Output example](/files/omm/howard.xlsx)
 
-[Self defense prompt generated from base prompt](/files/omm/self-defense-prompt.pdf) 
+### Basic prompts
 
-[Self defense prompt bare markdown](/files/omm/self-defense-prompt.txt) 
+[Base prompt generator](https://mitenmit.github.io/gpt/)  
 
- 
+[Self defense prompt generated from base prompt](/files/omm/self-defense-prompt.pdf)  
+
+[Self defense prompt bare markdown](/files/omm/self-defense-prompt.txt)  
+
+[ChatGPT output with basic prompt](/files/omm/Chat-GPT-self-defense-base prompt.pdf)  
+
+[ChatGPT output with markdown prompt](/files/omm/Chat-GPT-self-defense-markdown-prompt.pdf)  
+- Example of AI slop in second citation on p. 9  
+
+[Gemini output for comparison][/files/omm/Gemini-self-defense-markdown-prompt.pdf)  
+
+### Legislative intent
+[3. ChatGPT useful or legislative intent research](https://chatgpt.com/share/690b44f5-f2c0-8003-ad2a-6651d67f05cd)  
+
+
+
+
 
