@@ -31,6 +31,11 @@ title: OMM Interview 11/5/25
 #### Legislative intent
 [ChatGPT useful or legislative intent research](https://chatgpt.com/share/690b44f5-f2c0-8003-ad2a-6651d67f05cd)  
 
+#### Leadership
+[RAG chatbot in 2023](https://sampson.info/files/2023-aba-iolta-conference-tech-ai-slides.pdf#page=101)  
+
+[Vibe coding before it was a thing](https://sampson.info/files/2024-AALL-GenAI-Revolutionizing-Efficiencies.pdf#page=25)
+
 #### Cool tools
 [NotebookLM](https://notebooklm.google.com/notebook/95a1e95a-90e4-4c11-b739-d5f40ded9c74)
 - Used for research projects, synthesizing information, outlining, and identifying citations
