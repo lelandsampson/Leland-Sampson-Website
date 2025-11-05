@@ -5,11 +5,11 @@ title: Archive
 
 <h1 align="center">Archive</h1>
 
-[Delaware AI Summit](2025-delaware-ai) 
+[2025 Delaware AI Summit](2025-delaware-ai) 
 
 [2025 ABA Forum on Access to Justice for All](2025-iolta-ai) 
 
-[Montgomery County Bar Association](2025-MoCo-AI) 
+[2025 Montgomery County Bar Association](2025-MoCo-AI) 
 
 [2024 ABA Forum on Access to Justice for All](iolta2024)  
 
