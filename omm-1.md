@@ -7,13 +7,13 @@ title: OMM Interview 11/5/25
 
 ## Resources referenced in interview 
 
-###Wife's business use case - customer leads
+#### Wife's business use case - customer leads
 - [Instructions for downloading leads JSON](/files/omm/leads.pdf)
 - [JSON data file](/files/omm/howard-1.json)
 - [Business data prompt](/files/omm/business-data-prompt.pdf)
 - [Output example](/files/omm/howard.xlsx)
 
-### Basic prompts
+#### Basic prompts
 
 [Base prompt generator](https://mitenmit.github.io/gpt/)  
 
@@ -28,12 +28,12 @@ title: OMM Interview 11/5/25
 
 [Gemini output for comparison](/files/omm/Gemini-self-defense-markdown-prompt.pdf)  
 
-### Legislative intent
+#### Legislative intent
 [ChatGPT useful or legislative intent research](https://chatgpt.com/share/690b44f5-f2c0-8003-ad2a-6651d67f05cd)  
 
-### Cool tools
+#### Cool tools
 [NotebookLM](https://notebooklm.google.com/notebook/95a1e95a-90e4-4c11-b739-d5f40ded9c74)
-- Used for project research and writing
+- Used for research projects, synthesizing information, outlining, and identifying citations
 
 [Lex.page](https://lex.page/)
 - Identify weak arguments
