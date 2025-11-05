@@ -31,6 +31,17 @@ title: OMM Interview 11/5/25
 ### Legislative intent
 [3. ChatGPT useful or legislative intent research](https://chatgpt.com/share/690b44f5-f2c0-8003-ad2a-6651d67f05cd)  
 
+### Cool tools
+[NotebookLM](https://notebooklm.google.com/notebook/95a1e95a-90e4-4c11-b739-d5f40ded9c74)
+- Used for project research and writing
+
+[Lex.page](https://lex.page/)
+- Identify weak arguments
+- Flag confusing parts
+
+[AnythingLLM](https://anythingllm.com/)
+- Run models locally, there are millions on [Huggingface](https://huggingface.co/models)
+
 
 
 
