@@ -8,7 +8,7 @@ title: OMM Interview 11/5/25
 ## Resources referenced in interview 
 
 ###Wife's business use case - customer leads
-- [Instructions for downloading leads JSON][/files/omm/leads.pdf)
+- [Instructions for downloading leads JSON](/files/omm/leads.pdf)
 - [JSON data file](/files/omm/howard-1.json)
 - [Business data prompt](/files/omm/business-data-prompt.pdf)
 - [Output example](/files/omm/howard.xlsx)
@@ -26,10 +26,10 @@ title: OMM Interview 11/5/25
 [ChatGPT output with markdown prompt](/files/omm/Chat-GPT-self-defense-markdown-prompt.pdf)  
 - Example of AI slop in second citation on p. 9  
 
-[Gemini output for comparison][/files/omm/Gemini-self-defense-markdown-prompt.pdf)  
+[Gemini output for comparison](/files/omm/Gemini-self-defense-markdown-prompt.pdf)  
 
 ### Legislative intent
-[3. ChatGPT useful or legislative intent research](https://chatgpt.com/share/690b44f5-f2c0-8003-ad2a-6651d67f05cd)  
+[ChatGPT useful or legislative intent research](https://chatgpt.com/share/690b44f5-f2c0-8003-ad2a-6651d67f05cd)  
 
 ### Cool tools
 [NotebookLM](https://notebooklm.google.com/notebook/95a1e95a-90e4-4c11-b739-d5f40ded9c74)
