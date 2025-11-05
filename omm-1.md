@@ -21,7 +21,7 @@ title: OMM Interview 11/5/25
 
 [Self defense prompt bare markdown](/files/omm/self-defense-prompt.txt)  
 
-[ChatGPT output with basic prompt](/files/omm/Chat-GPT-self-defense-base prompt.pdf)  
+[ChatGPT output with basic prompt](/files/omm/Chat-GPT-self-defense-base-prompt.pdf)  
 
 [ChatGPT output with markdown prompt](/files/omm/Chat-GPT-self-defense-markdown-prompt.pdf)  
 - Example of AI slop in second citation on p. 9  
