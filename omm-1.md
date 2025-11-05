@@ -9,5 +9,9 @@ title: OMM Interview 11/5/25
 
 [Base prompt](https://mitenmit.github.io/gpt/) 
 
-[Markdown self defense prompt](/files/omm/self-defense-prompt.pdf) 
+[Self defense prompt generated from base prompt](/files/omm/self-defense-prompt.pdf) 
+
+[Self defense prompt bare markdown](/files/omm/self-defense-prompt.txt) 
+
+ 
 
