@@ -3,7 +3,7 @@ layout: default
 title: OMM Interview 11/5/25
 ---
 
-<h1 align="center">OMM Interview 11/5/25</h1>
+<h1 align="center">O'Melveny Interview 11/5/25</h1>
 
 ## Resources referenced in interview 
 
