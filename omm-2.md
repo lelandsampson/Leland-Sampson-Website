@@ -11,7 +11,7 @@ title: OMM Interview 11/11/25
 </br></br>
 
 ## Keeping up with AI
-- [Intelligent Machines podcase](https://twit.tv/shows/intelligent-machines)  
+- [Intelligent Machines podcast](https://twit.tv/shows/intelligent-machines)  
 - [Hacker News](https://news.ycombinator.com/)  
 - [arXiv](https://arxiv.org/list/cs.AI/recent)  
 - [AI Law Librarians blog](https://www.ailawlibrarians.com/) - there is also a related Discord that's lively  
