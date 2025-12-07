@@ -1,6 +1,7 @@
 # Site settings
-title: Leland Sampson
-description: Personal website of Leland Sampson
+title: Sampson # The first line of your masthead
+masthead_subtitle: Law + Insurance # The second line of your masthead
+description: Theresa & Leland Sampson
 baseurl: ""
 url: ""
 

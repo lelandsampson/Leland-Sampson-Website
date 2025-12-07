@@ -18,10 +18,14 @@
 </head>
 <body>
     <header class="site-header">
-        <div class="container">
-            <a class="header-link" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        </div>
-    </header>
+    <div class="container">
+        <a class="header-link" href="{{ '/' | relative_url }}">
+            <span class="masthead-title">{{ site.title }}</span>
+            <br>
+            <span class="masthead-subtitle">{{ site.masthead_subtitle }}</span>
+        </a>
+    </div>
+</header>
 
     <main class="main-content">
         <div class="container">
