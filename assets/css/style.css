@@ -63,7 +63,7 @@ p {
 /* Header Styles */
 .site-header {
     background-color: var(--primary-color); /* Kept as a fallback color */
-    background-image: url(../../images/logan-voss-CIB4j45RwOQ-unsplash.jpg');
+    background-image: url('../../images/logan-voss-CIB4j45RwOQ-unsplash.jpg');
     background-size: cover; /* Ensures the image covers the area without stretching */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat;
