@@ -70,7 +70,7 @@ p {
 .header-link {
     color: var(--text-light);
     font-family: 'Noto Serif', serif;
-    font-size: clamp(3.5rem, 2.842rem + 3.509vw, 6rem);
+    font-size: clamp(2.1rem, 1.7rem + 2.1vw, 3.6rem);
     text-decoration: none;
     display: block;
     text-align: center;
