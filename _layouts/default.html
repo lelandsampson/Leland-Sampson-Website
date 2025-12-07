@@ -31,19 +31,32 @@
         <div class="container">
             <aside class="sidebar">
 				<nav class="main-nav">
-					<details class="nav-accordion">
-						<summary>Main Menu</summary>
-						<ul class="nav-list">
-							{% for item in site.data.navigation %}
-							<li>
-								<a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
-									{{ item.title }}
-								</a>
-							</li>
-							{% endfor %}
-						</ul>
-					</details>
-				</nav>
+    <details class="nav-accordion" open>
+        <summary>Leland</summary>
+        <ul class="nav-list">
+            {% for item in site.data.navigation %}
+            <li>
+                <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                    {{ item.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </details>
+
+    <details class="nav-accordion">
+        <summary>Theresa</summary>
+        <ul class="nav-list">
+            {% for item in site.data.theresa %}
+            <li>
+                <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                    {{ item.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </details>
+</nav>
 			</aside>
             
             <div class="content">
