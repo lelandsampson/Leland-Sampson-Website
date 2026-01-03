@@ -5,10 +5,10 @@ title: Insurance for Individuals
 
 <h1 align="center">Insurance for Individuals</h1>
 
-##Why you need insurance
+## Why you need insurance
 
-##Coverage options
+## Coverage options
 
-##Consultation process
+## Consultation process
 
-##Insurance providers
+## Insurance providers
