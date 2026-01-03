@@ -9,16 +9,15 @@ title: Insurance for Individuals
 Life has a way of moving fast, and it often brings surprises whether you are ready for them or not. While you can't predict every twist and turn, you can certainly prepare for them. Having the right insurance is about more than just paperwork; it is about peace of mind. It helps ensure that you and your loved ones are protected financially, no matter what life throws your way. By planning ahead, you can face the future with confidence, knowing you have a safety net in place.
 
 ## Coverage Options
-There are many different types of insurance designed to cover the unique situations you might face. We offer a wide range of featured insurance products to fit your specific needs:
+There are many different types of insurance designed to cover the unique situations you might face. There is a wide range of supplemental insurance products to fit your specific needs:
 
-* **Supplemental Insurance**
+* **Medicare Supplemental Insurance**
+* **Retirement Annuities**
 * **Whole Life and Term Life Insurance**
 * **Index Universal Life Insurance**
 * **Final Expenses**
-* **Retirement Annuities**
-* **Debt Solutions**
 * **Estate and Trust Services**
-* **Medicare Supplemental Insurance**
+* **Debt Solutions**
 
 Navigating the world of insurance can sometimes feel overwhelming, but you don't have to do it alone. Whether you are looking for a simple term life policy to protect your young family, seeking strategies to manage debt, or planning for a comfortable retirement with annuities, there are options that cover every stage of life. My goal is to match you with the right products so you can build a secure foundation for your future.
 
