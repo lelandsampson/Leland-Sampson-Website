@@ -7,10 +7,10 @@ title: Home
 
 <div class="bio-section">
     <div class="bio-text">
-        <p>Theresa Sampson is a licensed insurance agent serving individuals and families in Maryland and Delaware, dedicated to helping clients protect what matters most. She specializes in supplemental insurance, short-term disability coverage, and life insurance, offering clear guidance and personalized solutions designed to provide financial security during life’s unexpected moments.</p>
+        <p>Theresa Sampson is a licensed insurance agent serving individuals and families in Maryland and Delaware, dedicated to helping clients protect what matters most. She specializes in supplemental insurance, short-term disability coverage, and life insurance. Free consultations offer clear guidance and personalized solutions designed to provide financial security during life’s unexpected moments.</p>
     </div>
     <div class="bio-image-wrapper">
-        <img src="images/theresa-headshot-small.jpg" alt="Theresa Sampson" class="bio-image" style="width: 120px;">
+        <img src="images/theresa-headshot-small.jpg" alt="Theresa Sampson" class="bio-image" style="width: 250px;">
     </div>
 </div>
 
@@ -24,6 +24,6 @@ title: Home
         <strong><a href="/files/C.L.Sampson-CV-2025-10.pdf">Link to my current career summary</a></strong></p>
     </div>
     <div class="bio-image-wrapper">
-        <img src="images/sampson-headshot-small.jpg" alt="Leland Sampson" class="bio-image style="width: 120px;"">
+        <img src="images/sampson-headshot-small.jpg" alt="Leland Sampson" class="bio-image" style="width: 250px;">
     </div>
 </div>
