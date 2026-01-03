@@ -189,7 +189,7 @@ p {
     .bio-image-wrapper {
         flex: auto;
         width: 100%;
-        max-width: 250px; /* Keeps image from getting too huge on mobile */
+        max-width: 120px; /* Keeps image from getting too huge on mobile */
         margin-bottom: var(--spacing-md);
     }
 }
@@ -257,4 +257,28 @@ th {
     width: 100%;
     height: auto;
     border-radius: 4px; /* Optional: adds slightly rounded corners */
+}
+
+/* --- New Homepage Bio Layout --- */
+
+.bio-section {
+    display: flex;
+    flex-direction: row; 
+    align-items: flex-start;
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+}
+
+.bio-text {
+    flex: 1; 
+}
+
+.bio-image-wrapper {
+    flex: 0 0 120px; /* UPDATED: Changed from 250px to 120px */
+}
+
+.bio-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px; 
 }
