@@ -14,7 +14,7 @@
     --spacing-lg: 2rem;
     
     /* Breakpoints */
-    --mobile-breakpoint: 650px;
+    --mobile-breakpoint: 250px;
 }
 
 /* Reset and Base styles */
