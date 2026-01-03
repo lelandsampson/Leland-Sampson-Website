@@ -183,14 +183,12 @@ p {
     .bio-section {
         flex-direction: column-reverse; 
         align-items: center;
-        text-align: center; /* Optional: centers text on mobile */
+        text-align: center;
     }
 
     .bio-image-wrapper {
-        flex: auto;
-        width: 100%;
-        max-width: 120px; /* Keeps image from getting too huge on mobile */
         margin-bottom: var(--spacing-md);
+        /* No need to set width here; the main rule handles the 120px width */
     }
 }
 
@@ -259,11 +257,11 @@ th {
     border-radius: 4px; /* Optional: adds slightly rounded corners */
 }
 
-/* --- New Homepage Bio Layout --- */
+/* --- New Homepage Bio Layout (Revised) --- */
 
 .bio-section {
     display: flex;
-    flex-direction: row; 
+    flex-direction: row; /* Desktop: Text Left, Image Right */
     align-items: flex-start;
     gap: var(--spacing-lg);
     margin-bottom: var(--spacing-lg);
@@ -274,11 +272,14 @@ th {
 }
 
 .bio-image-wrapper {
-    flex: 0 0 120px; /* UPDATED: Changed from 250px to 120px */
+    /* Prevents the image container from shrinking smaller than the image */
+    flex-shrink: 0; 
 }
 
-.bio-image {
-    width: 100%;
+/* We use .bio-section .bio-image to be more specific than ".content img" */
+.bio-section .bio-image {
+    width: 120px; /* Forces the exact size you want */
     height: auto;
-    border-radius: 4px; 
+    border-radius: 4px;
+    display: block; /* Ensures it behaves correctly as a block element */
 }
