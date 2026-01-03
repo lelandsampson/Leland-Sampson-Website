@@ -144,7 +144,6 @@ p {
 }
 
 /* --- Homepage Bio Layout (Standard/Desktop) --- */
-/* Placed HERE so it can be overridden by the Mobile Media Query below */
 .bio-section {
     display: flex;
     flex-direction: row; /* Text Left, Image Right */
@@ -155,6 +154,7 @@ p {
 
 .bio-text {
     flex: 1; 
+    text-align: left; /* Ensure text is left aligned on desktop */
 }
 
 .bio-image-wrapper {
@@ -162,7 +162,8 @@ p {
 }
 
 .bio-section .bio-image {
-    width: 250px; 
+    width: 100%;
+    max-width: 250px; /* UPDATED: Max width increased to 250px */
     height: auto;
     border-radius: 4px;
     display: block; 
@@ -249,7 +250,7 @@ th {
 .list-indent { padding-left: 60px; }
 
 /* --------------------------------------------------------- */
-/* MEDIA QUERIES (Must be at the bottom to override styles) */
+/* MEDIA QUERIES */
 /* --------------------------------------------------------- */
 
 @media (max-width: 850px) {
@@ -281,11 +282,15 @@ th {
     }
 
     /* --- MOBILE BIO LAYOUT --- */
-    /* This will now correctly override the desktop styles above */
     .bio-section {
         flex-direction: column; /* Stacks: Text on Top, Image on Bottom */
-        align-items: center;
-        text-align: center;
+        align-items: center; /* Centers the Image Wrapper */
+        /* Note: We do NOT use text-align: center here anymore */
+    }
+
+    .bio-text {
+        text-align: left; /* Forces paragraph text to be left aligned */
+        width: 100%; /* Ensures the text block takes up the full width */
     }
 
     .bio-image-wrapper {
