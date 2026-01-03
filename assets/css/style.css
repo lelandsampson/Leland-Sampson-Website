@@ -14,7 +14,7 @@
     --spacing-lg: 2rem;
     
     /* Breakpoints */
-    --mobile-breakpoint: 250px;
+    --mobile-breakpoint: 850px;
 }
 
 /* Reset and Base styles */
@@ -50,7 +50,6 @@ h1, h2, h3, h4, h5, h6 {
 h3, h4, h5, h6 {
     margin-bottom: 0;
 }
-
 
 h1 { font-size: clamp(1.5rem, 1.171rem + 1.754vw, 2.75rem); }
 h2 { font-size: clamp(1.25rem, 1.118rem + 0.702vw, 1.75rem); }
@@ -144,6 +143,32 @@ p {
     flex: 1;
 }
 
+/* --- Homepage Bio Layout (Standard/Desktop) --- */
+/* Placed HERE so it can be overridden by the Mobile Media Query below */
+.bio-section {
+    display: flex;
+    flex-direction: row; /* Text Left, Image Right */
+    align-items: flex-start;
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+}
+
+.bio-text {
+    flex: 1; 
+}
+
+.bio-image-wrapper {
+    flex-shrink: 0; 
+}
+
+.bio-section .bio-image {
+    width: 120px; 
+    height: auto;
+    border-radius: 4px;
+    display: block; 
+}
+
+/* Existing Content Styles */
 .content-section {
     display: flex;
     flex-wrap: wrap;
@@ -157,48 +182,6 @@ p {
 .profile-image {
     margin-left: var(--spacing-md);
     max-width: 250px;
-}
-
-/* Adjust for mobile view */
-@media (max-width: 850px) {
-    .main-content .container {
-        flex-direction: column;
-    }
-    
-    .sidebar {
-        flex: 0 0 100%;
-    }
-    
-    .main-nav {
-        position: static;
-    }
-
-    .profile-image {
-        display: block;
-        margin: 0 auto;
-        max-width: 250px;
-    }
-
-    .content-section {
-        flex-direction: column;
-    }
-
-    .profile-image {
-        margin-left: 0;
-        margin-top: 0;
-    }
-
-    /* --- UPDATED MOBILE LAYOUT --- */
-    /* Matches your diagram: Text on Top, Image on Bottom */
-    .bio-section {
-        flex-direction: column; /* Standard stacking: Text then Image */
-        align-items: center;
-        text-align: center;
-    }
-
-    .bio-image-wrapper {
-        margin-bottom: var(--spacing-md);
-    }
 }
 
 /* Image Styles */
@@ -265,27 +248,47 @@ th {
 .indent { margin-left: 30px; }
 .list-indent { padding-left: 60px; }
 
-/* --- Homepage Bio Layout (Desktop) --- */
-.bio-section {
-    display: flex;
-    flex-direction: row; /* Desktop: Text Left, Image Right */
-    align-items: flex-start;
-    gap: var(--spacing-lg);
-    margin-bottom: var(--spacing-lg);
-}
+/* --------------------------------------------------------- */
+/* MEDIA QUERIES (Must be at the bottom to override styles) */
+/* --------------------------------------------------------- */
 
-.bio-text {
-    flex: 1; 
-}
+@media (max-width: 850px) {
+    .main-content .container {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        flex: 0 0 100%;
+    }
+    
+    .main-nav {
+        position: static;
+    }
 
-.bio-image-wrapper {
-    flex-shrink: 0; 
-}
+    .profile-image {
+        display: block;
+        margin: 0 auto;
+        max-width: 250px;
+    }
 
-/* Specific selector to keep image size at 120px */
-.bio-section .bio-image {
-    width: 120px; 
-    height: auto;
-    border-radius: 4px;
-    display: block; 
+    .content-section {
+        flex-direction: column;
+    }
+
+    .profile-image {
+        margin-left: 0;
+        margin-top: 0;
+    }
+
+    /* --- MOBILE BIO LAYOUT --- */
+    /* This will now correctly override the desktop styles above */
+    .bio-section {
+        flex-direction: column; /* Stacks: Text on Top, Image on Bottom */
+        align-items: center;
+        text-align: center;
+    }
+
+    .bio-image-wrapper {
+        margin-bottom: var(--spacing-md);
+    }
 }
