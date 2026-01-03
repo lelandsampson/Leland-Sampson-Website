@@ -1,0 +1,10 @@
+# _data/theresa.yml
+
+- title: For Individuals
+  url: /for-individuals
+
+- title: For Business
+  url: /for-business
+
+- title: About Theresa
+  url: /about-theresa
