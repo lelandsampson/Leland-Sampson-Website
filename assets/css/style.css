@@ -62,10 +62,11 @@ p {
 
 /* Header Styles */
 .site-header {
-    background-color: var(--primary-color); /* Kept as a fallback color */
+    background-color: var(--primary-color);
+    /* Updated background image with relative path */
     background-image: url('../../images/logan-voss-CIB4j45RwOQ-unsplash.jpg');
-    background-size: cover; /* Ensures the image covers the area without stretching */
-    background-position: center; /* Centers the image */
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     padding: var(--spacing-lg) 0;
     margin-bottom: var(--spacing-lg);
@@ -74,6 +75,7 @@ p {
 .header-link {
     color: var(--text-light);
     font-family: 'Noto Serif', serif;
+    /* Reduced by 40%: Min 2.1rem, Max 3.6rem */
     font-size: clamp(2.1rem, 1.7rem + 2.1vw, 3.6rem);
     text-decoration: none;
     display: block;
@@ -106,6 +108,7 @@ p {
     border: 1px solid var(--primary-color);
     border-radius: 7px;
     padding: var(--spacing-md);
+    margin-bottom: var(--spacing-md); /* Spacing between Leland and Theresa menus */
 }
 
 .nav-accordion summary {
@@ -173,7 +176,6 @@ p {
     }
 
     .profile-image {
-
         display: block;
         margin: 0 auto;
         max-width: 250px;
@@ -187,11 +189,22 @@ p {
         margin-left: 0;
         margin-top: 0;
     }
+
+    /* Mobile Bio Layout: Image on Top, Text on Bottom */
+    .bio-section {
+        flex-direction: column-reverse; 
+        align-items: center;
+        text-align: center;
+    }
+
+    .bio-image-wrapper {
+        margin-bottom: var(--spacing-md);
+    }
 }
 
 /* Image Styles */
 .content img {
-    height: 0 auto;
+    height: auto;
     margin: 0 auto;
 }
 
@@ -252,3 +265,29 @@ th {
 .text-center { text-align: center; }
 .indent { margin-left: 30px; }
 .list-indent { padding-left: 60px; }
+
+/* --- New Homepage Bio Layout (Desktop) --- */
+.bio-section {
+    display: flex;
+    flex-direction: row; /* Desktop: Text Left, Image Right */
+    align-items: flex-start;
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+}
+
+.bio-text {
+    flex: 1; 
+}
+
+.bio-image-wrapper {
+    /* Prevents the image container from shrinking smaller than the image */
+    flex-shrink: 0; 
+}
+
+/* Specific selector to control bio image size */
+.bio-section .bio-image {
+    width: 120px; /* Forces the exact size */
+    height: auto;
+    border-radius: 4px;
+    display: block; 
+}
