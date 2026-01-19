@@ -1,0 +1,95 @@
+# Research Prompt: Self-Defense Law in Maryland (pre-1850)
+
+## Objective
+
+Produce a concise, source-grounded overview of self-defense (including “castle” concepts and duty-to-retreat) as recognized in **Maryland** law **before 1850**. Focus on doctrinal elements, limits, and terminology used at the time.
+
+## Scope & Constraints
+
+* **Jurisdiction:** Maryland (colonial period → 1849 inclusive).
+* **Topics:** self-defense / “se defendendo,” justifiable vs. excusable homicide, provocation/sudden combat, mutual affray, duty to retreat (e.g., “retreat to the wall”), defense of habitation (“castle”), defense of others, weapons context (if any).
+* **Exclusions:** Do **not** rely on post-1850 sources for doctrine, except to note historical commentary about earlier law (clearly labeled).
+* **Output style:** Neutral, concise prose with **precise pin-cited quotations** from primary sources. No speculative reasoning.
+
+## Deliverables
+
+1. **Doctrinal Summary (≤400 words)** – What Maryland law required for self-defense pre-1850, key elements, burdens, and recognized limits.
+2. **Timeline (bulleted)** – Earliest to latest **pre-1850** milestones (statutes, leading cases, influential treatises applied in Maryland).
+3. **Authorities Table** – Markdown table with: Authority | Year | Type (case/statute/treatise) | Holding/Rule (1–2 sentences) | **Pin Cite** | Short Quotation (≤40 words).
+4. **Terminology Map** – Historic terms → modern equivalents (e.g., *se defendendo*, excusable vs. justifiable homicide, chance-medley, affray, “dwelling house,” “curtilage”).
+5. **Gaps/Conflicts** – Note any conflicts among sources, silence on elements, or open questions.
+
+## Research Rules
+
+* **Primary sources first** (highest weight):
+
+  * **Maryland cases** in early reporters (e.g., **H. & McH.**, **H. & J.**, **G. & J.**, **H. & G.**, **Gill**, early **Md.**).
+  * **Session laws / compilations** (e.g., **Kilty’s**, **Dorsey’s**, **Maxcy’s** compilations; colonial/provincial acts).
+  * **Maryland constitutional/Declaration of Rights** provisions (1776) **only if text bears on self-defense/homicide**.
+* **Persuasive/background** (identify as such):
+
+  * English common-law treatises frequently cited in American courts **pre-1850** (e.g., **Hale, Hawkins, Foster, Blackstone, East**).
+  * Early American treatises **≤1850** (e.g., **Wharton (1846)**). If a key American treatise is slightly post-1850, use **only** to describe earlier Maryland practice and label clearly as “post-1850 commentary.”
+* **Exact quotations & pin cites required** for every stated rule. Prefer verbatim statutory/case language when defining elements.
+* **Archaic → modern**: When a source uses archaic phrasing, provide a brief parenthetical gloss without altering the quoted meaning.
+
+## Search & Keywords (use period language)
+
+Use combinations of:
+
+* *“se defendendo”*, “excusable homicide,” “justifiable homicide,” “chance-medley,” “affray,” “mutual combat,” “bare fear,” “sudden combat,” “retreat,” “retreat to the wall,” “dwelling house,” “curtilage,” “defence of habitation,” “manslaughter,” “malice aforethought.”
+* Maryland-specific anchors: “Harris & McHenry,” “Harris & Johnson,” “Gill & Johnson,” “Harris & Gill,” “Maryland Reports,” “session laws,” “Laws of Maryland,” “Kilty,” “Dorsey,” “Maxcy,” “Declaration of Rights.”
+* Treatise anchors: “Hale P.C.,” “Hawkins P.C.,” “Foster Crown Law,” “Blackstone Commentaries (Book 4),” “East P.C.,” “Wharton Criminal Law (1846).”
+
+## Reliability & Weighting
+
+1. **Maryland court decisions/statutes (pre-1850)** – controlling.
+2. **English common-law treatises** – persuasive where Maryland adopts or cites them.
+3. **American treatises (≤1850)** – persuasive background; verify against Maryland authorities.
+
+## Bluebook Notes (early Maryland)
+
+* Reporters to use as found in source: **H. & McH.**, **H. & J.**, **G. & J.**, **H. & G.**, **Gill**, **Md.**
+* Include **year** and **pin cite**. Avoid unnecessary parallel citations. Quote ≤40 words.
+
+## Output Format
+
+### 1) Doctrinal Summary
+
+* 3–6 bullets, each with a **rule sentence** + **source (pin-cited)**.
+* Include separate bullets for: elements, proportionality/necessity, retreat, castle/habitation, defense of others, limitations (initial aggressor, mutual combat, provocation).
+
+### 2) Timeline
+
+* `YYYY — Authority — 6–12 words on relevance (pin cite).`
+
+### 3) Authorities Table
+
+| Authority (case/statute/treatise) | Year | Type | Rule / Holding (1–2 sentences) | **Pin Cite** | Quotation (≤40 words) |
+| --------------------------------- | ---: | ---- | ------------------------------ | ------------ | --------------------- |
+
+### 4) Terminology Map
+
+* *Term* — one-line definition + source.
+
+### 5) Gaps/Conflicts
+
+* Bullet any unresolved issues or conflicting lines of authority, with cites.
+
+## Quality Bar
+
+* **No summaries without citations.**
+* **No post-1850 rules** unless expressly labeled as later commentary on earlier practice.
+* Keep prose tight; avoid speculation. If a point is uncertain, say **“unclear; sources conflict/are silent”** and list candidates.
+
+## Mini-Checklist (before you finish)
+
+* [ ] At least **5 primary Maryland authorities** pre-1850 (cases or statutes) with pin cites.
+* [ ] At least **3 common-law treatise passages** that Maryland courts plausibly used/cited.
+* [ ] One explicit statement on **duty to retreat vs. castle** as reflected in pre-1850 materials.
+* [ ] Terminology section covers **se defendendo / excusable vs. justifiable homicide / chance-medley / affray**.
+* [ ] All quotes ≤40 words and accurately transcribed.
+
+### (Optional) Sources to Try First (if browsing is available)
+
+* Maryland Archives (session laws & early reports), HeinOnline State Session Laws, LLMC Digital, HathiTrust/Google Books (digitized reporters & treatises).
