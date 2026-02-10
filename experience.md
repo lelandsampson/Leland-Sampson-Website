@@ -9,7 +9,7 @@ title: Experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-Chair, Artificial Intelligence and Legal Technology Task Force
 
 **Maryland Judiciary**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Artificial Intelligence Workgroup
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Artificial Intelligence Governance Subcommittee
 
 **American Association of Law Librarians**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member, Government Law Libraries section
