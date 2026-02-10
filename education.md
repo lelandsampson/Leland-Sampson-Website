@@ -6,7 +6,7 @@ title: Education
 <h1 align="center">Education</h1>
 
 ## University of Maryland, College Park
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Library and Information Science, expected December, 2025.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Library and Information Science, awarded December, 2025.
 
 ## University of Maryland, Francis King Carey School of Law
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juris Doctor, *Cum Laude*, awarded May 2015.
