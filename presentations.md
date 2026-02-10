@@ -10,6 +10,10 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
+### Translating the Tech: Making GenAI Work for Court Operations
+**2026 National Association for Court Management Annual Conference**  
+Session will guide participants through the process of managing an artificial intelligence technology implementation project from the court management perspective. Session will touch on effective communication, workforce considerations, and an accessible summary of the technology behind generative AI. 
+
 ### [Practical AI Tools to Increase Efficiency for Legal Nonprofits](/2025-iolta-ai)
 **2025 ABA Forum on Building Access to Justice for All**  
 Shared a spectrum of reasonably safe and trustworthy generative AI and automation tools and techniques that a range of legal services organizations can implement easily or with help from within the community. 
