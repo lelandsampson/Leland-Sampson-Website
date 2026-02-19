@@ -34,7 +34,7 @@ title: Practical AI Tools to Increase Efficiency for Legal Nonprofits: NAIP Memb
 
 [**Russ's slides**](/files/2025-Delaware-AI/mla-leveraging-ai.pdf) 
 
-[**Lee's slides**](/files/2025-iolta/Lee-Atlanta.pdf) 
+[**Lee's slides**](/files/2025-iolta/GenAI-IOLTA-policy.pdf) 
 
 Links in Lee's slides:
 - [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
