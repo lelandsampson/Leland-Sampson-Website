@@ -39,6 +39,7 @@ title: Practical AI Tools to Increase Efficiency for Legal Nonprofits: NAIP Memb
 Links in Lee's slides:
 - [GenAI law firm policy template](/files/2025-Delaware-AI/GAI-Policy.docx)  [(PDF Version)](/files/2025-Delaware-AI/GAI-Policy.pdf)
 - [The Sedona Conference - Information Governance](https://www.thesedonaconference.org/download-publication?fid=4514)
+- [What the Science Says About Hallucinations in Legal Research](https://www.ailawlibrarians.com/2026/02/19/what-the-science-says-about-hallucinations-in-legal-research/)
 - [*Ferris v. Amazon*, 778 F.Supp.3d 879 (2025)](https://scholar.google.com/scholar_case?case=6813007439816866109&q=778+F.Supp.3d+879&hl=en&as_sdt=20000003)
 - [Hallucination tracker](https://www.damiencharlotin.com/hallucinations/)
 - [Why Large Language Models Hallucinate](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)
