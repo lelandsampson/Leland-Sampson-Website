@@ -142,9 +142,9 @@ button:disabled { cursor: not-allowed; opacity: .45; }
 .grid-head { position: sticky; top: 0; z-index: 2; background: #eef1f4; font-weight: 700; }
 .time-cell { background: #f9fafb; color: var(--muted); text-align: right; }
 .slot-cell { background: #fff; }
-.slot-cell.available { background: #effaf3; }
+.slot-cell.available { background: #b9dec8; }
 .slot-cell.default-unavailable { background: #edf0f3; color: #9aa4af; }
-.slot-cell.weekly-unavailable { background: var(--bad-bg); }
+.slot-cell.weekly-unavailable { background: #f1b3b3; }
 .slot-cell.selected { outline: 2px solid var(--accent); outline-offset: -2px; }
 
 .schedule-day { min-height: 32px; padding: 4px; background: #fff; }
