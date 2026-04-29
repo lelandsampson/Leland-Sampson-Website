@@ -1,0 +1,66 @@
+AssetID,DayOfWeek,AvailableStart,AvailableEnd,Timezone,Notes,Reviewer?
+BH,Monday,8:30,16:00,America/New_York,,
+BH,Tuesday,,,America/New_York,Tuesday telework,
+BH,Wednesday,8:30,16:00,America/New_York,,
+BH,Thursday,8:30,16:00,America/New_York,,
+BH,Friday,8:30,16:00,America/New_York,,
+CH,Monday,8:00,15:30,America/New_York,,TRUE
+CH,Tuesday,8:00,15:30,America/New_York,,TRUE
+CH,Wednesday,8:00,15:30,America/New_York,,TRUE
+CH,Thursday,,,America/New_York,Thursday telework,
+CH,Friday,,,America/New_York,Friday telework,
+JH,Monday,8:00,16:00,America/New_York,,
+JH,Tuesday,8:00,16:00,America/New_York,,
+JH,Wednesday,8:00,16:00,America/New_York,,
+JH,Thursday,8:00,16:00,America/New_York,,
+JH,Friday,8:00,16:00,America/New_York,,
+BL,Monday,8:00,16:00,America/New_York,,
+BL,Tuesday,8:00,16:00,America/New_York,,
+BL,Wednesday,8:00,16:00,America/New_York,,
+BL,Thursday,8:00,16:00,America/New_York,,
+BL,Friday,,,America/New_York,Friday telework,
+CM,Monday,8:00,16:30,America/New_York,,TRUE
+CM,Tuesday,,,America/New_York,Tuesday telework,
+CM,Wednesday,8:00,16:30,America/New_York,,TRUE
+CM,Thursday,8:00,16:30,America/New_York,,TRUE
+CM,Friday,8:00,16:30,America/New_York,,TRUE
+JM,Monday,8:30,16:30,America/New_York,,TRUE
+JM,Tuesday,8:30,16:30,America/New_York,,TRUE
+JM,Wednesday,8:30,16:30,America/New_York,,TRUE
+JM,Thursday,8:30,16:30,America/New_York,,TRUE
+JM,Friday,,,America/New_York,off on Friday,TRUE
+LS,Monday,,,America/New_York,Monday telework,
+LS,Tuesday,8:00,16:00,America/New_York,,TRUE
+LS,Wednesday,8:00,16:00,America/New_York,,TRUE
+LS,Thursday,8:00,16:00,America/New_York,,TRUE
+LS,Friday,8:00,16:00,America/New_York,,TRUE
+ES,Monday,,,America/New_York,,
+ES,Tuesday,12:00,19:30,America/New_York,,TRUE
+ES,Wednesday,,,America/New_York,Wednesday telework,TRUE
+ES,Thursday,12:00,19:30,America/New_York,,TRUE
+ES,Friday,12:00,19:30,America/New_York,,TRUE
+JB,Monday,8:00,19:30,America/New_York,,
+JB,Tuesday,8:00,19:30,America/New_York,,
+JB,Wednesday,,,America/New_York,Wednesday telework,
+JB,Thursday,8:00,19:30,America/New_York,,
+JB,Friday,8:00,19:30,America/New_York,,
+AD,Monday,8:30,16:00,America/New_York,,
+AD,Tuesday,8:30,16:00,America/New_York,,
+AD,Wednesday,8:30,16:00,America/New_York,,
+AD,Thursday,8:30,16:00,America/New_York,,
+AD,Friday,8:30,16:00,America/New_York,,
+JG,Monday,11:00,19:30,America/New_York,,
+JG,Tuesday,11:00,19:30,America/New_York,,
+JG,Wednesday,11:00,19:30,America/New_York,,
+JG,Thursday,11:00,19:30,America/New_York,,
+JG,Friday,,,America/New_York,Friday telework,
+RT,Monday,11:00,19:30,America/New_York,,
+RT,Tuesday,11:00,19:30,America/New_York,,
+RT,Wednesday,11:00,19:30,America/New_York,,
+RT,Thursday,11:00,19:30,America/New_York,,
+RT,Friday,11:00,19:30,America/New_York,,
+JWT,Monday,8:00,16:30,America/New_York,,TRUE
+JWT,Tuesday,8:00,16:30,America/New_York,,TRUE
+JWT,Wednesday,,,America/New_York,Wednesday telework,
+JWT,Thursday,8:00,16:30,America/New_York,,TRUE
+JWT,Friday,8:00,16:30,America/New_York,,TRUE

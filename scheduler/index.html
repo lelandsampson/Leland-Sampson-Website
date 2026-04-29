@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Reference Desk Scheduler</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <header class="app-header">
+        <div>
+          <h1>Reference Desk Scheduler</h1>
+          <p id="app-status">Loading configuration...</p>
+        </div>
+      </header>
+
+      <nav class="tabs" aria-label="Scheduler sections">
+        <button class="tab-button active" data-tab="setup" type="button">Weekly Setup</button>
+        <button class="tab-button" data-tab="review" type="button">Schedule Review</button>
+      </nav>
+
+      <main>
+        <section id="setup-tab" class="tab-panel active">
+          <div id="week-selector"></div>
+          <div class="setup-grid">
+            <section id="setup-panel" class="panel"></section>
+            <section id="phone-eligibility" class="panel"></section>
+          </div>
+          <section id="availability-editor" class="panel"></section>
+        </section>
+
+        <section id="review-tab" class="tab-panel">
+          <div class="review-grid">
+            <section id="schedule-calendar" class="panel"></section>
+            <aside class="review-side">
+              <section id="target-summary" class="panel"></section>
+              <section id="warnings-panel" class="panel"></section>
+            </aside>
+          </div>
+        </section>
+      </main>
+
+      <section id="toolbar" class="toolbar" aria-label="Actions"></section>
+      <input id="session-file-input" type="file" accept="application/json,.json" hidden>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
