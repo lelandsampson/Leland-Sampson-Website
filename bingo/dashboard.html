@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vibe Coding Bingo Dashboard</title>
+  <link rel="stylesheet" href="assets/css/bingo.css">
+</head>
+<body class="page dashboard-page">
+  <main class="dashboard-shell">
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Presenter Dashboard</p>
+        <h1>Vibe Coding Bingo</h1>
+      </div>
+      <a class="text-link" href="index.html">Player card</a>
+    </header>
+
+    <section class="metrics-grid" aria-label="Game metrics">
+      <div class="metric">
+        <span class="label">Active players</span>
+        <strong id="active-count">0</strong>
+      </div>
+      <div class="metric">
+        <span class="label">Bingos</span>
+        <strong id="bingo-count">0</strong>
+      </div>
+      <div class="metric">
+        <span class="label">Room limit</span>
+        <strong id="room-limit">100</strong>
+      </div>
+      <div class="metric">
+        <span class="label">Round</span>
+        <strong id="round-id">Loading</strong>
+      </div>
+    </section>
+
+    <section id="winner-alerts" class="alerts" aria-live="polite"></section>
+
+    <section class="dashboard-grid">
+      <div class="panel">
+        <div class="panel-header">
+          <h2>Players</h2>
+          <span id="updated-at" class="subtle">Not updated yet</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Card</th>
+                <th>Marked</th>
+                <th>Away</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="players-table"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel ai-panel">
+        <div class="panel-header">
+          <h2>AI Player</h2>
+          <span id="ai-status" class="subtle">Idle</span>
+        </div>
+        <div id="ai-board" class="mini-board" aria-label="AI bingo board"></div>
+        <div class="action-row">
+          <button id="ai-listen-button" class="primary-button" type="button">Start mic</button>
+          <button id="ai-stop-button" class="secondary-button" type="button">Stop</button>
+        </div>
+        <label class="transcript-label" for="transcript-input">Transcript test box</label>
+        <textarea id="transcript-input" rows="5" placeholder="Paste transcript text here to test auto-marking."></textarea>
+        <button id="transcript-test-button" class="secondary-button full-width" type="button">Run transcript match</button>
+      </div>
+    </section>
+
+    <section class="panel reset-panel">
+      <div>
+        <h2>Round controls</h2>
+        <p class="subtle">Reset starts a new round, clears marks, reshuffles boards, and keeps each player's card ID.</p>
+      </div>
+      <button id="reset-button" class="danger-button" type="button">Reset round</button>
+    </section>
+  </main>
+
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/game.js"></script>
+  <script src="assets/js/firebase-adapter.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vibe Coding Bingo</title>
+  <link rel="stylesheet" href="assets/css/bingo.css">
+</head>
+<body class="page player-page">
+  <main class="app-shell">
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">AALL Vibe Coding</p>
+        <h1>Vibe Coding Bingo</h1>
+      </div>
+      <a class="text-link" href="dashboard.html">Dashboard</a>
+    </header>
+
+    <section class="status-panel" aria-live="polite">
+      <div>
+        <span class="label">Your card</span>
+        <strong id="player-id">Loading</strong>
+      </div>
+      <div>
+        <span class="label">Status</span>
+        <strong id="player-status">Setting up</strong>
+      </div>
+    </section>
+
+    <section class="bingo-wrap" aria-labelledby="board-heading">
+      <h2 id="board-heading" class="visually-hidden">Bingo board</h2>
+      <div id="bingo-board" class="bingo-board" role="grid" aria-label="Vibe coding bingo board"></div>
+    </section>
+
+    <section class="action-row">
+      <button id="new-card-button" class="secondary-button" type="button">New card order</button>
+      <button id="clear-card-button" class="secondary-button" type="button">Clear marks</button>
+    </section>
+
+    <p id="room-note" class="note" aria-live="polite"></p>
+  </main>
+
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/game.js"></script>
+  <script src="assets/js/firebase-adapter.js"></script>
+  <script src="assets/js/player.js"></script>
+</body>
+</html>

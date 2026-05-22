@@ -1,0 +1,8 @@
+title: Vibe Coding Bingo
+description: A mobile-first bingo game for an AALL vibe coding presentation.
+url: ""
+baseurl: ""
+
+exclude:
+  - PROJECT_PLAN.md
+
