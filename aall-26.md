@@ -8,12 +8,12 @@ title: Catch the Vibe
 
 <h2 align="center">Slides & Demos</h2>
 
-[**Lee's slides**](/files/collection-demo.pdf) 
+[**Lee's slides**](/files/collection-demo.pdf) <br>
 [**Lee's Leadsbot CRM**](https://leadsbot.sampson.info/) 
 - Email:AALL@sampson.info 
 - Password:AXgCnn1x%1l4 (password will change on 7/21, contact Lee for new password)
 
-[**Rebecca's Legal Boolean Search Builder**](https://booleanbuilder.replit.app/) 
+[**Rebecca's Legal Boolean Search Builder**](https://booleanbuilder.replit.app/) <br>
 [**Rebecca's Bookshop Bing**](https://rlfordon.github.io/bookshop-bingo/) ([Github](https://github.com/rlfordon/bookshop-bingo)) 
 
 ---
