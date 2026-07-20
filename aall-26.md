@@ -8,7 +8,7 @@ title: Catch the Vibe
 
 <h2 align="center">Slides & Demos</h2>
 
-[**Lee's slides**](/files/collection-demo.pdf) <br>
+[**Presentation slides**](/files/aall-26.pdf) <br><br>
 [**Lee's Leadsbot CRM**](https://leadsbot.sampson.info/) 
 - Email:AALL@sampson.info 
 - Password:AXgCnn1x%1l4 (password will change on 7/21, contact Lee for new password)
