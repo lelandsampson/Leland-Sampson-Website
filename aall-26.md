@@ -20,6 +20,8 @@ title: Catch the Vibe
 
 <h2 align="center">Rebecca's Resource List</h2>
 
+[CALICon presentation on David Colarusso and Jenny Wondracek about vibe-coding and pedagogy](https://youtu.be/PpGF8VBb9XA?si=wsPkXZL46hu5aKnR)
+
 ### Galleries & examples
 
 Browse what others have built
