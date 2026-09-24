@@ -2,9 +2,8 @@
 .reveal .slides section:not(.intro-slide) h2 {
   display: block;
   box-sizing: border-box;
-  width: 100vw;
-  margin-left: calc((100% - 100vw) / 2);
-  margin-bottom: 0.55em;
+  width: 90%;
+  margin: 0 auto 0.55em;
   padding: 0.12em 0.7em 0.18em;
   border-top: 0.08em solid transparent;
   border-bottom: 0.08em solid transparent;

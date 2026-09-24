@@ -30,7 +30,7 @@ This presentation introduces web content management systems through a library an
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="65%"}
 - Information changes constantly.
 - Static sites are not interactive.
 - Static sites quickly become unmanageable.
@@ -38,7 +38,7 @@ This presentation introduces web content management systems through a library an
 **Takeaway:** A library website is an ongoing organizational system.
 :::
 
-::: {.column width="50%"}
+::: {.column width="35%"}
 ![Example of a content-rich website directory](cms-site-directory.png){width="80%"}
 :::
 
