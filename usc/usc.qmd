@@ -191,7 +191,8 @@ An inclusive website anticipates different abilities, devices, languages, levels
 
 1. A CMS is a publishing tool **and** an organizational system.
 2. Effective user experience and accessibility distill complexity into simple UI/UX.
-3. Going forward, not all users are human
+3. Going forward, not all users are human. 
 
-**Theme inspiration:** [Anything But Binary](https://anythingbutbinary.com/)
+**Theme inspiration:** [Anything But Binary](https://anythingbutbinary.com/)  
+
 **AI helped make this presentation**
