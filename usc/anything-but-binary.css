@@ -18,6 +18,15 @@
   ) 1;
 }
 
+.reveal .slides section.center-content {
+  text-align: center;
+}
+
+.reveal .slides section.center-content ol {
+  display: inline-block;
+  text-align: left;
+}
+
 .reveal .progress {
   background: #25292b;
 }

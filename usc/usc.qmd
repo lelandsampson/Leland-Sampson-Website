@@ -22,10 +22,6 @@ format:
 - Manage [People's Law Library](https://www.peoples-law.org) legal information website
 - [More about me](https://sampson.info/leland)
 
-::: {.notes}
-This presentation introduces web content management systems through a library and information-science lens. The central argument is that a CMS is not merely a publishing tool: it also shapes governance, user experience, accessibility, participation, and long-term sustainability.
-:::
-
 ## Why a content management system?
 
 :::: {.columns}
@@ -35,7 +31,7 @@ This presentation introduces web content management systems through a library an
 - Static sites are not interactive.
 - Static sites quickly become unmanageable.
 
-**Takeaway:** A library website is an ongoing organizational system.
+**Takeaway:** A CMS is an ongoing organizational system.
 :::
 
 ::: {.column width="35%"}
@@ -43,10 +39,6 @@ This presentation introduces web content management systems through a library an
 :::
 
 ::::
-
-::: {.notes}
-The challenge is not simply putting information online. Libraries must keep information accurate, organized, accessible, and useful while many people contribute to the site.
-:::
 
 ## What is a web content management system?
 
@@ -67,10 +59,6 @@ A CMS coordinates:
 
 ::::
 
-::: {.notes}
-A CMS manages web content, but it is not necessarily the website's visual design, online catalog, or entire digital ecosystem. This distinction follows Barker's discussion of what content management is and is not.
-:::
-
 ## A CMS is not the same as
 
 - a library website.
@@ -78,10 +66,6 @@ A CMS manages web content, but it is not necessarily the website's visual design
 - a discovery interface.
 
 **One ecosystem, different functions.**
-
-::: {.notes}
-The CMS is part of a larger information environment. A library website may link to or embed catalogs, discovery tools, databases, event systems, and social media, but these systems should not be treated as interchangeable.
-:::
 
 ## One ecosystem, different functions
 
@@ -92,10 +76,6 @@ The CMS is part of a larger information environment. A library website may link 
 | Catalog | Find library materials |
 | Discovery interface | Search across resources |
 
-::: {.notes}
-These systems may be linked or integrated, but they solve different problems.
-:::
-
 ## Content Life Cycle
 
 ![The digital content lifecycle in six stages](content-life-cycle.png){width="72%"}
@@ -103,6 +83,16 @@ These systems may be linked or integrated, but they solve different problems.
 ::: {.source}
 [Source: Acquia, “Content Lifecycle”](https://www.acquia.com/glossary/content-lifecycle)
 :::
+
+## PLL Content Life Cycle {.center-content}
+
+1. Plan 
+2. Create 
+3. Optimize
+4. Distribute 
+5. Manage 
+6. Preserve 
+
 
 ## What users actually experience
 
@@ -113,10 +103,6 @@ Users do not see the CMS. They see:
 - Content
 
 **A good user interface distills complex systems into a simple, intuitive experience**
-
-::: {.notes}
-Content structure and governance are user-experience issues. If content owners use inconsistent labels, duplicate information, or unclear categories, users experience that internal complexity as confusion.
-:::
 
 ## Responsive design
 
@@ -144,28 +130,6 @@ Distinct panels can organize different user needs:
 ![Library website organized as a bento-box interface](bento-box-interface.png){width="96%"}
 
 
-## Accessibility is part of design
-
-| Concept | Question |
-|---|---|
-| Usability | Can people use it easily? |
-| Accessibility | Can people with disabilities use it? |
-| Universal design | Did we design for variation from the start? |
-
-**Accessibility is a design and governance responsibility.**
-
-## Accessible content in practice
-
-- Keyboard navigation
-- Color contrast
-- Alternative text
-- Captions and transcripts
-- Clear headings and links
-
-::: {.notes}
-An inclusive website anticipates different abilities, devices, languages, levels of technical experience, and ways of interacting with information. Accessibility should be built into content models, templates, workflows, and review practices.
-:::
-
 ## Why organizations adopt a CMS
 
 - Distributed authoring
@@ -183,9 +147,36 @@ An inclusive website anticipates different abilities, devices, languages, levels
 
 **A CMS reflects organizational values and priorities.**
 
-## Planning, governance, and evolution
+## So much more!
 
-### This is a whole other presentation!
+- Picking a CMS 
+- Or migrating CMS 
+- Governance 
+- Documentation
+- Accessibility 
+- Preservation 
+
+## The elephant in the room
+
+- [People's Law AI use policy](https://www.peoples-law.org/volunteer-writing-guide#use-of-ai-features-and-tools)
+
+1. **Plan**
+   - AI systems are helpful discovery tools
+
+2. **Creation**
+   - [Gemini Notebook](https://notebook.google/) for outlines and citations
+   - [Lex.page](https://lex.page/) for draft improvement
+   - **All published words are written by humans**
+
+## The elephant in the room
+
+3. **Managing**
+   - Custom software to find new law (vibe coding)
+   - Comparing existing articles to new law
+
+4. **Distribute**
+   - Search behaviors are changing
+   - Measures of impact are changing
 
 ## Conclusion
 
