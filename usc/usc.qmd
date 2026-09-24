@@ -76,14 +76,6 @@ A CMS coordinates:
 | Catalog | Find library materials |
 | Discovery interface | Search across resources |
 
-## Content Life Cycle
-
-![The digital content lifecycle in six stages](content-life-cycle.png){width="72%"}
-
-::: {.source}
-[Source: Acquia, “Content Lifecycle”](https://www.acquia.com/glossary/content-lifecycle)
-:::
-
 ## PLL Content Life Cycle {.center-content}
 
 1. Plan 
