@@ -32,7 +32,7 @@ This presentation introduces web content management systems through a library an
 
 ::: {.column width="50%"}
 - Information changes constantly.
-- Static sites are limited.
+- Static sites are not interactive.
 - Static sites quickly become unmanageable.
 
 **Takeaway:** A library website is an ongoing organizational system.
@@ -71,11 +71,11 @@ A CMS coordinates:
 A CMS manages web content, but it is not necessarily the website's visual design, online catalog, or entire digital ecosystem. This distinction follows Barker's discussion of what content management is and is not.
 :::
 
-## A CMS is not
+## A CMS is not the same as
 
 - a library website.
-- the same as an online catalog.
-- the same as a discovery interface.
+- an online catalog.
+- a discovery interface.
 
 **One ecosystem, different functions.**
 
@@ -88,7 +88,7 @@ The CMS is part of a larger information environment. A library website may link 
 | System | Main job |
 |---|---|
 | CMS | Manage web content |
-| Website | Explain services |
+| Website | Explain how to use library |
 | Catalog | Find library materials |
 | Discovery interface | Search across resources |
 
@@ -112,9 +112,7 @@ Users do not see the CMS. They see:
 - Page structure
 - Content
 
-**Internal complexity becomes user complexity.**
-
-**Discussion prompt:** What organizational decisions become visible through a library website?
+**A good user interface distills complex systems into a simple, intuitive experience**
 
 ::: {.notes}
 Content structure and governance are user-experience issues. If content owners use inconsistent labels, duplicate information, or unclear categories, users experience that internal complexity as confusion.
@@ -132,16 +130,19 @@ Content should adapt to:
 
 ## Bento-box interfaces
 
-**Cindy, do you have a Bento Box diagram from the reading?**
-
 Distinct panels can organize different user needs:
 
 - Search
-- Hours
+- Physical location info
 - Events
 - Research help
 
-**Caution:** Visual grouping should clarify choices, not multiply them.
+**Purpose:** Visual grouping should speed navigation.
+
+## Bento-box interfaces
+
+![Library website organized as a bento-box interface](bento-box-interface.png){width="96%"}
+
 
 ## Accessibility is part of design
 
@@ -165,23 +166,6 @@ Distinct panels can organize different user needs:
 An inclusive website anticipates different abilities, devices, languages, levels of technical experience, and ways of interacting with information. Accessibility should be built into content models, templates, workflows, and review practices.
 :::
 
-## Social media and patron participation
-
-Social media can extend the website through:
-
-- Outreach
-- Program promotion
-- Community engagement
-
-## Social media requires governance
-
-- Staffing
-- Training
-- Editorial guidelines
-- Evaluation
-
-**Key message:** More channels require more coordination.
-
 ## Why organizations adopt a CMS
 
 - Distributed authoring
@@ -197,7 +181,7 @@ Social media can extend the website through:
 - Poor workflows
 - Training needs
 
-**A CMS reflecs organizational values and priorities.**
+**A CMS reflects organizational values and priorities.**
 
 ## Planning, governance, and evolution
 
@@ -207,18 +191,6 @@ Social media can extend the website through:
 
 1. A CMS is a publishing tool **and** an organizational system.
 2. Effective user experience and accessibility distill complexity into simple UI/UX.
-3. Placeholder
+3. Going forward, not all users are human
 
-## Readings
-
-- Barker, D. (2016). *What content management is (and isn't).* In *Web content management: Systems, features, and best practices*. O'Reilly Media.
-- Burke, J. J. (2020). "Library websites and web services." In *Neal-Schuman library technology companion* (6th ed.). American Library Association.
-- Burke, J. J. (2020). "Social networking and patron participation: Marketing and more." In *Neal-Schuman library technology companion* (6th ed.). American Library Association.
-- Jaffy, M. (2020). "Bento-box user experience study at Franklin University." *Information Technology and Libraries, 39*(1).
-- Nicholls, J. (2021). "The best-laid plans: Planning and estimating your project." In *The everyday project manager*.
-- Shih, W., & Holmes-Wong, D. (2018). "Library information technology." In *The portable MLIS: Insights from the experts* (2nd ed.). Libraries Unlimited.
-- Yoon, K., Hulscher, L., & Dols, R. (2016). "Accessibility and diversity in library and information science: Inclusive information architecture for library websites." *The Library Quarterly, 86*(2), 213–229.
-
-::: {.notes}
-The focus questions in the reading list informed this outline. They are reading prompts rather than additional presentation requirements.
-:::
+**Theme inspiration:** [Anything But Binary](https://anythingbutbinary.com/)
