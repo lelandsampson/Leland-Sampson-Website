@@ -194,3 +194,4 @@ An inclusive website anticipates different abilities, devices, languages, levels
 3. Going forward, not all users are human
 
 **Theme inspiration:** [Anything But Binary](https://anythingbutbinary.com/)
+**AI helped make this presentation**
