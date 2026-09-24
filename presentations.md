@@ -10,7 +10,20 @@ This page contains a list of my presentations and trainings.
 
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
-### Translating the Tech: Making GenAI Work for Court Operations
+### Librarians as Leaders: How AI Has Changed Our Role
+**2026 AALL Virtual Exchange: Applying AI in Legal Information Settings
+The surge of AI in the legal community gives the law librarian the chance to step up and make ourselves known. This opening panel will discuss the skills that law librarians can hone to become the leaders within the AI space and how the legal profession is changing. Unsure how to lead in this area? The panel will discuss upskilling paths and share experiences in certification and continued education.
+
+### [Catch the Vibe: What Law Librarians Need to Know about Vibe Coding](/aall-26)  
+**2026 American Association of Law Librarians Annual Meeting**  
+Discover how to get started with computer programming, no experience necessary. Law librarians will share real-world experiences and also discuss best practices, lessons learned, and where tools fall short – particularly in areas like security, reliability, and ethics.  
+
+### Search Engines to AI Answers: Optimizing Web Content for Next Wave  
+**2026 American Association of Law Librarians Annual Meeting**  
+Learn everything you wanted to know about web analytics but were afraid to ask, how websites need to adapt to treat bots as first class users, and discover content
+best practices for optimizing web visibility.
+
+### Translating the Tech: Making GenAI Work for Court Operations  
 **2026 National Association for Court Management Annual Conference**  
 Session will guide participants through the process of managing an artificial intelligence technology implementation project from the court management perspective. Session will touch on effective communication, workforce considerations, and an accessible summary of the technology behind generative AI. 
 
