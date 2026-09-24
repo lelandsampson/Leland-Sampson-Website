@@ -1,0 +1,58 @@
+/* Multicolor title framing inspired by the reference site's dark mode. */
+.reveal .slides section:not(.intro-slide) h2 {
+  display: block;
+  box-sizing: border-box;
+  width: 100vw;
+  margin-left: calc((100% - 100vw) / 2);
+  margin-bottom: 0.55em;
+  padding: 0.12em 0.7em 0.18em;
+  border-top: 0.08em solid transparent;
+  border-bottom: 0.08em solid transparent;
+  border-image: linear-gradient(
+    90deg,
+    #f04b4b 0%,
+    #f39c36 20%,
+    #f6d84a 38%,
+    #55c878 56%,
+    #3da9e9 74%,
+    #b667e8 100%
+  ) 1;
+}
+
+.reveal .progress {
+  background: #25292b;
+}
+
+.reveal .progress span {
+  background: linear-gradient(
+    90deg,
+    #f04b4b 0%,
+    #f39c36 20%,
+    #f6d84a 38%,
+    #55c878 56%,
+    #3da9e9 74%,
+    #b667e8 100%
+  );
+}
+
+.reveal a,
+.reveal a:visited {
+  color: #57a9ff;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.12em;
+}
+
+.reveal a:hover,
+.reveal a:focus-visible {
+  color: #c8f31d;
+}
+
+.reveal .source {
+  position: absolute;
+  right: 0;
+  bottom: 0.25em;
+  width: 100%;
+  font-size: 0.45em;
+  text-align: right;
+}

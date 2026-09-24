@@ -1,0 +1,224 @@
+---
+title: "Web Content Management Systems"
+subtitle: "MMLIS 562: Transformative Technologies in Library and Information Science"
+author: "[Leland Sampson](https://sampson.info/leland)"
+date: "September 24, 2026"
+format:
+  revealjs:
+    theme: night
+    css: anything-but-binary.css
+    link-external-newwindow: true
+    slide-number: true
+    progress: true
+    transition: fade
+    chalkboard: false
+    fig-align: center
+    toc: false
+---
+
+## Who am I?
+
+- Head of Web Content and Services at [Maryland's Thurgood Marshall State Law Library](https://mdcourts.gov/lawlib)
+- Manage [People's Law Library](https://www.peoples-law.org) legal information website
+- [More about me](https://sampson.info/leland)
+
+::: {.notes}
+This presentation introduces web content management systems through a library and information-science lens. The central argument is that a CMS is not merely a publishing tool: it also shapes governance, user experience, accessibility, participation, and long-term sustainability.
+:::
+
+## Why a content management system?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Information changes constantly.
+- Static sites are limited.
+- Static sites quickly become unmanageable.
+
+**Takeaway:** A library website is an ongoing organizational system.
+:::
+
+::: {.column width="50%"}
+![Example of a content-rich website directory](cms-site-directory.png){width="80%"}
+:::
+
+::::
+
+::: {.notes}
+The challenge is not simply putting information online. Libraries must keep information accurate, organized, accessible, and useful while many people contribute to the site.
+:::
+
+## What is a web content management system?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+A CMS coordinates:
+
+- Content
+- People
+- Workflows
+- Presentation
+:::
+
+::: {.column width="50%"}
+> **Definition:** A system for creating, organizing, publishing, and maintaining web content.
+:::
+
+::::
+
+::: {.notes}
+A CMS manages web content, but it is not necessarily the website's visual design, online catalog, or entire digital ecosystem. This distinction follows Barker's discussion of what content management is and is not.
+:::
+
+## A CMS is not
+
+- a library website.
+- the same as an online catalog.
+- the same as a discovery interface.
+
+**One ecosystem, different functions.**
+
+::: {.notes}
+The CMS is part of a larger information environment. A library website may link to or embed catalogs, discovery tools, databases, event systems, and social media, but these systems should not be treated as interchangeable.
+:::
+
+## One ecosystem, different functions
+
+| System | Main job |
+|---|---|
+| CMS | Manage web content |
+| Website | Explain services |
+| Catalog | Find library materials |
+| Discovery interface | Search across resources |
+
+::: {.notes}
+These systems may be linked or integrated, but they solve different problems.
+:::
+
+## Content Life Cycle
+
+![The digital content lifecycle in six stages](content-life-cycle.png){width="72%"}
+
+::: {.source}
+[Source: Acquia, “Content Lifecycle”](https://www.acquia.com/glossary/content-lifecycle)
+:::
+
+## What users actually experience
+
+Users do not see the CMS. They see:
+
+- Navigation
+- Page structure
+- Content
+
+**Internal complexity becomes user complexity.**
+
+**Discussion prompt:** What organizational decisions become visible through a library website?
+
+::: {.notes}
+Content structure and governance are user-experience issues. If content owners use inconsistent labels, duplicate information, or unclear categories, users experience that internal complexity as confusion.
+:::
+
+## Responsive design
+
+Content should adapt to:
+
+- Phones
+- Tablets
+- Desktops
+
+**Goal:** Preserve clarity while the layout changes.
+
+## Bento-box interfaces
+
+**Cindy, do you have a Bento Box diagram from the reading?**
+
+Distinct panels can organize different user needs:
+
+- Search
+- Hours
+- Events
+- Research help
+
+**Caution:** Visual grouping should clarify choices, not multiply them.
+
+## Accessibility is part of design
+
+| Concept | Question |
+|---|---|
+| Usability | Can people use it easily? |
+| Accessibility | Can people with disabilities use it? |
+| Universal design | Did we design for variation from the start? |
+
+**Accessibility is a design and governance responsibility.**
+
+## Accessible content in practice
+
+- Keyboard navigation
+- Color contrast
+- Alternative text
+- Captions and transcripts
+- Clear headings and links
+
+::: {.notes}
+An inclusive website anticipates different abilities, devices, languages, levels of technical experience, and ways of interacting with information. Accessibility should be built into content models, templates, workflows, and review practices.
+:::
+
+## Social media and patron participation
+
+Social media can extend the website through:
+
+- Outreach
+- Program promotion
+- Community engagement
+
+## Social media requires governance
+
+- Staffing
+- Training
+- Editorial guidelines
+- Evaluation
+
+**Key message:** More channels require more coordination.
+
+## Why organizations adopt a CMS
+
+- Distributed authoring
+- Consistent design
+- Faster updates
+- Reusable content
+- Easier maintenance
+
+## What a CMS cannot automatically solve
+
+- Content governance
+- Effective communication
+- Poor workflows
+- Training needs
+
+**A CMS reflecs organizational values and priorities.**
+
+## Planning, governance, and evolution
+
+### This is a whole other presentation!
+
+## Conclusion
+
+1. A CMS is a publishing tool **and** an organizational system.
+2. Effective user experience and accessibility distill complexity into simple UI/UX.
+3. Placeholder
+
+## Readings
+
+- Barker, D. (2016). *What content management is (and isn't).* In *Web content management: Systems, features, and best practices*. O'Reilly Media.
+- Burke, J. J. (2020). "Library websites and web services." In *Neal-Schuman library technology companion* (6th ed.). American Library Association.
+- Burke, J. J. (2020). "Social networking and patron participation: Marketing and more." In *Neal-Schuman library technology companion* (6th ed.). American Library Association.
+- Jaffy, M. (2020). "Bento-box user experience study at Franklin University." *Information Technology and Libraries, 39*(1).
+- Nicholls, J. (2021). "The best-laid plans: Planning and estimating your project." In *The everyday project manager*.
+- Shih, W., & Holmes-Wong, D. (2018). "Library information technology." In *The portable MLIS: Insights from the experts* (2nd ed.). Libraries Unlimited.
+- Yoon, K., Hulscher, L., & Dols, R. (2016). "Accessibility and diversity in library and information science: Inclusive information architecture for library websites." *The Library Quarterly, 86*(2), 213–229.
+
+::: {.notes}
+The focus questions in the reading list informed this outline. They are reading prompts rather than additional presentation requirements.
+:::
