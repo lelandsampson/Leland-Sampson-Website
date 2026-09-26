@@ -12,6 +12,7 @@ title: Publications & Awards
 - Contributor, [An Overview of Ethical Considerations for Attorney Use of Generative Artificial Intelligence Technologies](https://www.msba.org/common/Uploaded%20files/Downloads/EPUB/An%20Overview%20of%20Ethical%20Considerations%20for%20Attorney%20Use.pdf). Published April, 2025, by the Maryland State Bar Association.
 
 <h1 align="center">Awards</h1>
+- 2026 Government Law Libraries Connie E. Bolden Publication Award
 - 2025 [LexisNexis John R. Johnson Memorial Scholarship](https://www.aallnet.org/education-training/scholarships/)
 - 2025 American Association of Law Libraries Annual Meeting & Conference Grant.
 - 2025 American Association of Law Libraries, Government Law Libraries Special Interest Section Annual Meeting & Conference Grant.
