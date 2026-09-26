@@ -11,8 +11,8 @@ This page contains a list of my presentations and trainings.
 <h2 align="center"><a id="conference-presentations"></a>Conference Presentations</h2>
 
 ### Librarians as Leaders: How AI Has Changed Our Role
-**2026 AALL Virtual Exchange: Applying AI in Legal Information Settings
-The surge of AI in the legal community gives the law librarian the chance to step up and make ourselves known. This opening panel will discuss the skills that law librarians can hone to become the leaders within the AI space and how the legal profession is changing. Unsure how to lead in this area? The panel will discuss upskilling paths and share experiences in certification and continued education.
+**2026 AALL Virtual Exchange: Applying AI in Legal Information Settings** 
+The surge of AI in the legal community gives the law librarian the chance to step up and make ourselves known. This opening panel will discuss the skills that law librarians can hone to become the leaders within the AI space and how the legal profession is changing. Unsure how to lead in this area? The panel will discuss upskilling paths and share experiences in certification and continued education. 
 
 ### [Catch the Vibe: What Law Librarians Need to Know about Vibe Coding](/aall-26)  
 **2026 American Association of Law Librarians Annual Meeting**  
