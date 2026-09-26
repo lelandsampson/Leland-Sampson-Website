@@ -6,8 +6,8 @@ title: JIS AI Manager
 <h1 align="center">JIS Program Manager, Artificial Intelligence Application</h1>
 
 ## Application Materials
-- [/files/C.L.Sampson-CV-JIS.pdf](*Curriculum Vitae*)
-- [/files/Sampson-AI-Program-Manager-Coverletter.pdf](Cover letter)
+- [*Curriculum Vitae*](/files/C.L.Sampson-CV-JIS.pdf)
+- [Cover letter](/files/Sampson-AI-Program-Manager-Coverletter.pdf)
 
 
 ## Leadsbot
