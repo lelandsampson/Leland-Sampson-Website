@@ -43,19 +43,19 @@ title: JIS AI Manager
 - Manage and supervise the Judiciary's AI development team, including work assignment, performance management, mentoring, prioritization of projects, and professional development of assigned staff.
 	- currently manage small team of 2. distribute work based on skill and development needs, set clear deadlines and productivity expectations, effectively manage priorities to meet project deadlines, and encourage staff to continually evolve professional development plans.
 
-Direct and oversee the Maryland Judiciary's enterprise Artificial Intelligence program, including strategic planning, AI roadmap development, oversight and coordination of AI initiatives, and program implementation.
+- Direct and oversee the Maryland Judiciary's enterprise Artificial Intelligence program, including strategic planning, AI roadmap development, oversight and coordination of AI initiatives, and program implementation.
 
-Lead the evaluation, selection, and implementation of AI technologies requested by Judiciary business units to ensure alignment with business needs, security standards, and Judiciary AI guidelines and policies.
+- Lead the evaluation, selection, and implementation of AI technologies requested by Judiciary business units to ensure alignment with business needs, security standards, and Judiciary AI guidelines and policies.
 
-Oversee the design, development, implementation, maintenance, and support of internally developed AI solutions, automation tools, and productivity applications. Leads cross- functional teams engaged in AI initiatives. 
+- Oversee the design, development, implementation, maintenance, and support of internally developed AI solutions, automation tools, and productivity applications. Leads cross- functional teams engaged in AI initiatives. 
 
-Research emerging AI technologies, industry trends, and best practices, and provide recommendations regarding adoption of new capabilities that support Judiciary business objectives.
+- Research emerging AI technologies, industry trends, and best practices, and provide recommendations regarding adoption of new capabilities that support Judiciary business objectives.
 
-Participate in the development, review, and ongoing refinement of Judiciary and JIS specific AI guidelines, standards, and policies and ensure approved AI solutions continue to comply with established requirements. 
+- Participate in the development, review, and ongoing refinement of Judiciary and JIS specific AI guidelines, standards, and policies and ensure approved AI solutions continue to comply with established requirements. 
 
-Collaborate with business units, Information Technology, Information Security, Legal, Procurement, and executive leadership to identify opportunities for responsible AI adoption and process improvement.
+- Collaborate with business units, Information Technology, Information Security, Legal, Procurement, and executive leadership to identify opportunities for responsible AI adoption and process improvement.
 
-Prepare executive briefings, reports, presentations, and recommendations related to AI initiatives, adoption, and program performance.
+- Prepare executive briefings, reports, presentations, and recommendations related to AI initiatives, adoption, and program performance.
 
 ### Minimum Qualifications:
 
