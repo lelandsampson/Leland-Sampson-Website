@@ -15,7 +15,7 @@ title: JIS AI Manager
 	- Username: guest@sampson.info
 	- Password: qhKwFo#V9c$F
 
-## [Custom GPT to learn more about me](insert gpt link
+## [Custom GPT to learn more about me](insert gpt link)
 
 ## Skills and Experience Applied
 
