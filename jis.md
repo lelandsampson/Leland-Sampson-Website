@@ -204,6 +204,7 @@ title: JIS AI Manager
 	- [See my response to strategic planning above](#planning)
 
 - Lead cross-functional teams engaged in AI initiatives.
+	- My work on the AI Governance Subcommittee subgroups has required a lot of interaction and inclusion of individuals from many departments. One are I would like to see this cross pollination occur more is seeking to bring in court staff and more frontline workers. I think AI skills and knowledge are not evenly distributed and developing a mechanism to identify and cultivate self-educating staff would be a huge boost to AI initiatives.
 
 ### <a id="comp-skills"></a>Software and Computer Skills:
 
