@@ -5,6 +5,18 @@ title: JIS AI Manager
 
 <h1 align="center">JIS Program Manager, Artificial Intelligence Application</h1>
 
+
+## Application Materials
+- [*Curriculum Vitae*](/files/C.L.Sampson-CV-JIS.pdf)
+- [Cover letter](/files/Sampson-AI-Program-Manager-Coverletter.pdf)
+
+
+## Leadsbot
+- [Leadsbot](https://leadsbot.sampson.info) - This app is a vibe coded CRM built for my wife's insurance business. It originally started as a spreadsheet replacement so that she could keep track of leads she had contacted for follow up. Over time it has grown to a full lifecycle CRM including lead identification (Google Business data), conversion of lead to client, and ongoing client management. The log in below has view only privileges:
+	- Username: guest@sampson.info
+	- Password: qhKwFo#V9c$F
+
+## Ask my Hermes agent about me
 <section class="jis-ask" aria-labelledby="jis-ask-heading">
   <h2 id="jis-ask-heading">Ask the JIS knowledge base</h2>
   <p>Ask a question about the JIS materials. Answers come from the Markdown knowledge base.</p>
@@ -73,17 +85,6 @@ title: JIS AI Manager
 })();
 </script>
 
-## Application Materials
-- [*Curriculum Vitae*](/files/C.L.Sampson-CV-JIS.pdf)
-- [Cover letter](/files/Sampson-AI-Program-Manager-Coverletter.pdf)
-
-
-## Leadsbot
-- [Leadsbot](https://leadsbot.sampson.info) - This app is a vibe coded CRM built for my wife's insurance business. It originally started as a spreadsheet replacement so that she could keep track of leads she had contacted for follow up. Over time it has grown to a full lifecycle CRM including lead identification (Google Business data), conversion of lead to client, and ongoing client management. The log in below has view only privileges:
-	- Username: guest@sampson.info
-	- Password: qhKwFo#V9c$F
-
-## [Custom GPT to learn more about me](insert gpt link)
 
 ## PDQ Elements
 - [Essential Job Functions](#functions)
