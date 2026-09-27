@@ -108,7 +108,7 @@ title: JIS AI Manager
 	- The opportunities for AI applications to augment and assist Judiciary staff seems almost limitless. I view adoption by staff as the most pressing initial challenge. The group can build great tools, but if staff do not want to adopt them, all the effort is for naught. I think this position needs to think very carefully how to communicate with AI resistant staff.
 
 - <a id="policy"></a>participates in the development and ongoing refinement of Judiciary AI guidelines and policies.
-	- My work as a contributor to the existing AI Use Policy, as well as my contributions to the MSBA law firm AI use templates demonstrates my leadership in AI policy development. As part of my MLS, I took a course on Information Goverance taught by a founding member of the [Sedona Conference](https://www.thesedonaconference.org/publication/Commentary_on_Information_Governance), Jason Baron. I believe effective policy design is just as important as building great tools
+	- My work as a contributor to the existing AI Use Policy, as well as my contributions to the MSBA law firm AI use templates demonstrates my leadership in AI policy development. As part of my MLIS, I took a course on Information Goverance taught by a founding member of the [Sedona Conference](https://www.thesedonaconference.org/publication/Commentary_on_Information_Governance), Jason Baron. I believe effective policy design is just as important as building great tools
 
 - The incumbent works across business and technology divisions to ensure AI solutions align with organizational objectives, security requirements, and Judiciary AI guidelines.
 	- Over many years of work at the Judiciary, I have crossed paths with many offices and governance units. I heard the conversations that went in to developing the Mission and Vision statements. My past experience and current collaboration with Judiciary leadership support my alignment with organizational objectives. As an information professional, I understand the security concerns with AI systems. Lawyers are also highly concerned with data security because it has implications for privilege and case outcomes. 
@@ -170,18 +170,25 @@ title: JIS AI Manager
 	- See response to the [policy essential function above](#policy).
 
 - Information security principles. 
+	- I have experience with applied information security through development of the PLL website and information architectures. I have studied information security extensively through my MLIS course of study.
 
 - Software development lifecycle. 
+	- I have experience with software development lifecycles and ensuring software stacks stay up to date and are accounted for in the Judiciary budgeting process.
 
 - Cloud technologies. 
+	- I am most familiar with the Linux/Apache/MySQL/PHP (LAMP) software stack (though I note that PLL uses Nginx instead of Apache)
 
 - Business analysis.
+	- Translating tasks and workflows from how they exist today into automated solutions with human in the loop verification is, in my view, a responsibility that will define this position in the medium term.
 
 - Project and program management methodologies. 
+	- Soon after I took over the PLL site, I took a project management training from Judy Rupp (when she was the Montgomery County Court Administrator). I still use the project planning and management documentation provided in that training to this day.
 
 - Change management principles. 
+	- Tracking, developing, implementing, and communicating changes to evolving software projects is always challenging. In the past I have used MS Project for this workflow. It seems ripe for an agentic solution based upon workflow documentation.
 
 - Public sector technology operations.
+	- The most challenging thing about public sector technology, at least in my experience, is estimating budget needs two years in the future. I have found this skill requires a very long roadmap and lots of planning.
 
 ### <a id="skill"></a>Skill in: 
 
@@ -201,4 +208,5 @@ title: JIS AI Manager
 ### <a id="comp-skills"></a>Software and Computer Skills:
 
 - Microsoft 365. Microsoft Teams. Microsoft Copilot. Azure AI Services. Azure OpenAI. SharePoint. GitHub CoPilot. Power BI. Microsoft Project. Visio. Microsoft Purview. Microsoft Defender. MDEC and other Judiciary applications as required
+	- I have direct experience with MS 365, MS Teams, MS Copilot, SharePoint, GitHub CoPilot, Power BI, MS Project, and Visio. I have awareness of Azure AI Services (including AI Foundry), Azure OpenAI, MS Purview, and MS Defender. I have provided many training sessions to Judiciary staff on MDEC, specifically the publically facing File and Serve application. 
 
