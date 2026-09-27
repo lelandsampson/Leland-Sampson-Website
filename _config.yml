@@ -20,3 +20,4 @@ exclude:
   - .git
   - .gitignore
   - README.md
+  - cloudflare

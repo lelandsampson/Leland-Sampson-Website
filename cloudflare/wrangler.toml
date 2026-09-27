@@ -1,0 +1,25 @@
+name = "jis-ask"
+main = "jis-ask-worker.js"
+compatibility_date = "2026-09-27"
+workers_dev = true
+
+[[vpc_services]]
+binding = "HERMES_VPC"
+service_id = "01a0e4a9-4fbe-7040-94c6-5670d7317e83"
+remote = true
+
+[[ratelimits]]
+name = "QUESTION_LIMIT"
+namespace_id = "1001"
+
+  [ratelimits.simple]
+  limit = 5
+  period = 60
+
+[[ratelimits]]
+name = "SITE_LIMIT"
+namespace_id = "1002"
+
+  [ratelimits.simple]
+  limit = 100
+  period = 60

@@ -5,6 +5,74 @@ title: JIS AI Manager
 
 <h1 align="center">JIS Program Manager, Artificial Intelligence Application</h1>
 
+<section class="jis-ask" aria-labelledby="jis-ask-heading">
+  <h2 id="jis-ask-heading">Ask the JIS knowledge base</h2>
+  <p>Ask a question about the JIS materials. Answers come from the Markdown knowledge base.</p>
+  <form id="jis-ask-form">
+    <label for="jis-question">Your question</label>
+    <textarea id="jis-question" name="question" rows="3" maxlength="2000" required placeholder="What experience do I bring to the AI Program Manager role?"></textarea>
+    <button id="jis-ask-button" type="submit">Ask</button>
+  </form>
+  <p id="jis-status" role="status" aria-live="polite" hidden></p>
+  <div id="jis-answer" aria-live="polite" hidden></div>
+</section>
+
+<style>
+  .jis-ask { border: 1px solid #cbd5e1; border-radius: 10px; padding: 1.25rem; margin: 1.5rem 0 2rem; background: #f8fafc; }
+  .jis-ask h2 { margin-bottom: .5rem; }
+  .jis-ask label { display: block; font-weight: 700; margin-bottom: .4rem; }
+  .jis-ask textarea { display: block; width: 100%; font: inherit; padding: .75rem; border: 1px solid #94a3b8; border-radius: 6px; resize: vertical; }
+  .jis-ask button { margin-top: .75rem; padding: .65rem 1.2rem; border: 0; border-radius: 6px; background: #3242a8; color: white; font: inherit; cursor: pointer; }
+  .jis-ask button:disabled { opacity: .6; cursor: wait; }
+  #jis-status { margin: .75rem 0 0; }
+  #jis-answer { margin-top: 1rem; padding: 1rem; border-left: 4px solid #3242a8; background: white; white-space: pre-wrap; overflow-wrap: anywhere; }
+</style>
+
+<script>
+(() => {
+  const endpoint = "https://jis-ask.cls-sampson.workers.dev/ask";
+  const form = document.getElementById("jis-ask-form");
+  const question = document.getElementById("jis-question");
+  const button = document.getElementById("jis-ask-button");
+  const status = document.getElementById("jis-status");
+  const answer = document.getElementById("jis-answer");
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    const value = question.value.trim();
+    if (!value) return;
+    button.disabled = true;
+    status.hidden = false;
+    status.textContent = "Searching the knowledge base…";
+    answer.hidden = true;
+    answer.textContent = "";
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 120000);
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question: value }),
+        signal: controller.signal
+      });
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.error || "The question could not be answered.");
+      if (typeof data.answer !== "string" || !data.answer.trim()) throw new Error("Hermes returned an empty answer.");
+      answer.textContent = data.answer;
+      answer.hidden = false;
+      status.textContent = "Answer ready.";
+    } catch (error) {
+      status.textContent = error.name === "AbortError"
+        ? "The request took too long. Please try again."
+        : (error instanceof TypeError ? "The knowledge base is unavailable. Please try again later." : error.message);
+    } finally {
+      clearTimeout(timeout);
+      button.disabled = false;
+    }
+  });
+})();
+</script>
+
 ## Application Materials
 - [*Curriculum Vitae*](/files/C.L.Sampson-CV-JIS.pdf)
 - [Cover letter](/files/Sampson-AI-Program-Manager-Coverletter.pdf)
