@@ -17,9 +17,15 @@ title: JIS AI Manager
 
 ## [Custom GPT to learn more about me](insert gpt link)
 
-## Skills and Experience Applied
+## PDQ Elements
+- [Essential Job Functions](#functions)
+- [Minimum Qualifications](#qualifications)
+- [Knowledge of](#knowledge)
+- [Skill in](#skill)
+- [Ability to](#ability)
+- [Software and Computer Skills](#comp-skills)
 
-### Essential Job Functions:  
+### <a id="functions"></a>Essential Job Functions:  
 
 - The AI Program Manager is responsible for planning, implementing, and overseeing the Maryland Judiciary's Artificial Intelligence (AI) program. The position manages the development of internally developed AI solutions
 	- As an existing member of the AI Governance Subcommittee and AI User Group, I have working knowledge of existing internally developed AI solutions. Additionally, I have a general understanding of the product road map. I view AIDA as evolving into a platform beyond mere chatbot functionality.
@@ -66,7 +72,7 @@ title: JIS AI Manager
 - <a id="briefing"></a>Prepare executive briefings, reports, presentations, and recommendations related to AI initiatives, adoption, and program performance.
 	- My career demonstrates a long history of communicating with executives and Judiciary leadership. I feel very comfortable developing plans and goals that align with the Judiciary's strategic goals and effectively communicating plans and outcomes to leadership. 
 
-### Minimum Qualifications:
+### <a id="qualifications"></a>Minimum Qualifications:
 
 - **Education:** Bachelor?s Degree from an accredited college or university.
 	- My education exceeds the minimum qualifications.
@@ -81,7 +87,7 @@ title: JIS AI Manager
 	- I have been a manager and part of the library management team since 2019.
 
 
-### Knowledge of:
+### <a id="knowledge"></a>Knowledge of:
 
 - Enterprise Artificial Intelligence technologies and concepts. 
 	- I am familiar with Azure AI foundary. I also think that [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) could be a useful tool for distributing custom applications to staff.
@@ -109,12 +115,12 @@ title: JIS AI Manager
 
 - Public sector technology operations.
 
-### Skill in: 
+### <a id="skill"></a>Skill in: 
 
 - Researching emerging AI technologies, industry trends and best practices to provide recommendations.
 	- [See my response regarding emerging AI capabilities above](#research)
 
-### Ability to:
+### <a id="ability"></a>Ability to:
 
 - Prepare executive briefings, reports, presentations, and recommendations related to AI initiatives, adoptions and program performance.
 	- [See my response regarding briefing above](#briefing)
@@ -124,7 +130,7 @@ title: JIS AI Manager
 
 - Lead cross-functional teams engaged in AI initiatives.
 
-### Software and Computer Skills:
+### <a id="comp-skills"></a>Software and Computer Skills:
 
 - Microsoft 365. Microsoft Teams. Microsoft Copilot. Azure AI Services. Azure OpenAI. SharePoint. GitHub CoPilot. Power BI. Microsoft Project. Visio. Microsoft Purview. Microsoft Defender. MDEC and other Judiciary applications as required
 
