@@ -86,9 +86,9 @@ title: JIS AI Manager
 	- Password: qhKwFo#V9c$F
 
 ## AI Leadership
-[RAG chatbot in 2023](https://sampson.info/files/2023-aba-iolta-conference-tech-ai-slides.pdf#page=101)  
+- [RAG chatbot in 2023](https://sampson.info/files/2023-aba-iolta-conference-tech-ai-slides.pdf#page=101)  
 
-[Vibe coding before it was a thing](https://sampson.info/files/2024-AALL-GenAI-Revolutionizing-Efficiencies.pdf#page=25)
+- [Vibe coding before it was a thing](https://sampson.info/files/2024-AALL-GenAI-Revolutionizing-Efficiencies.pdf#page=25)
 
 ## PDQ Elements
 - [Essential Job Functions](#functions)
