@@ -106,13 +106,13 @@ title: JIS AI Manager
 - Evaluates AI technologies requested by business units
 	- My experience in the Procurement subgroup provides knowledge of the existing request pipeline. My experience at a trial court and AOC provides direct knowledge of business unit needs. The philosophical approach I would adopt is to base solutions on workflows, rather than identifying tools to build workflows around.
 
-- <a id="research"></a>Researches emerging AI capabilities
+- Researches<a id="research"></a> emerging AI capabilities 
 	- Researching emerging AI is my hobby. Spare moments are spent listening to informative and entertaining podcasts such as [Security Now](https://www.grc.com/securitynow.htm) and [Philosophy, Programs, and Prompts](https://www.youtube.com/channel/UCOVFG_uMBQ1psEIWDdLUOkQ), and [Intelligent Machines](https://twit.tv/shows/intelligent-machines). I enjoy reading [Simon Willison’s blog](https://simonwillison.net/), [3 Geeks and a Law Blog](https://www.geeklawblog.com/), and [Hacker News](https://news.ycombinator.com/) for daily news. I am an active member of several Discord communities focused on legal tech and AI specifically. I enjoy reading research papers on emerging AI technology such as world models, new flavors of reasoning (such as [JEV](https://typesafe.ai/blog/introducing-system-one-models-and-jev)), and emerging neural network architectures ([Logical Intelligence's Kona](https://logicalintelligence.com/kona), for example). I think the future of AI will be an ecosystem of neural network models built for specific purposes with specific characteristics and constraints.
 
 - Oversees the portfolio of all AI initiatives and technologies
 	- The opportunities for AI applications to augment and assist Judiciary staff seems almost limitless. I view adoption by staff as the most pressing initial challenge. The group can build great tools, but if staff do not want to adopt them, all the effort is for naught. I think this position needs to think very carefully how to communicate with AI resistant staff.
 
-- <a id="policy"></a>participates in the development and ongoing refinement of Judiciary AI guidelines and policies.
+- participates<a id="policy"></a> in the development and ongoing refinement of Judiciary AI guidelines and policies.
 	- My work as a contributor to the existing AI Use Policy, as well as my contributions to the MSBA law firm AI use templates demonstrates my leadership in AI policy development. As part of my MLIS, I took a course on Information Goverance taught by a founding member of the [Sedona Conference](https://www.thesedonaconference.org/publication/Commentary_on_Information_Governance), Jason Baron. I believe effective policy design is just as important as building great tools
 
 - The incumbent works across business and technology divisions to ensure AI solutions align with organizational objectives, security requirements, and Judiciary AI guidelines.
@@ -124,7 +124,7 @@ title: JIS AI Manager
 	- I am also aware of areas where I need to continue to develop my skills. I would love to work with a development team that can improve my coding and software development skills. I have earned two advanced degress while working full time, so I'm no stranger to hard work. I would greatly appreciate a mentor or two at JIS to help me develop both in terms of technology skills and management skills. 
 
 
-- <a id="planning"></a>Direct and oversee the Maryland Judiciary's enterprise Artificial Intelligence program, including strategic planning, AI roadmap development, oversight and coordination of AI initiatives, and program implementation.
+- Direct<a id="planning"></a> and oversee the Maryland Judiciary's enterprise Artificial Intelligence program, including strategic planning, AI roadmap development, oversight and coordination of AI initiatives, and program implementation.
 	- I think the Judiciary has a solid foundation of **top-down leadership** from the AI Governance Subcommittee and **bottom-up leadership** in the AI User Group. I think there is room for more communication from different business units. Some folks find it challenging to speak up in a big group like the AI User Group. I would like to have set "office hours" where myself and other team members are available for one-on-one chats. Additionally, I think there are other ways to increase communication. The AI group could publish a newsletter or blog to make folks aware of new features and ongoing development. We could publish a podcast that sometimes has a chat show format or sometimes an interview format. I see these communication possibilities as critical for boosting staff adoption of new AI tools.
 
 - Lead the evaluation, selection, and implementation of AI technologies requested by Judiciary business units to ensure alignment with business needs, security standards, and Judiciary AI guidelines and policies.
@@ -142,7 +142,7 @@ title: JIS AI Manager
 - Collaborate with business units, Information Technology, Information Security, Legal, Procurement, and executive leadership to identify opportunities for responsible AI adoption and process improvement.
 	- Many years of managing a technology project at the law library has established relationships with folks working in each of these capacities. My existing network of relationships would mean no ramp up time for this position and I would be fully ready to hit the ground running. 
 
-- <a id="briefing"></a>Prepare executive briefings, reports, presentations, and recommendations related to AI initiatives, adoption, and program performance.
+- Prepare<a id="briefing"></a> executive briefings, reports, presentations, and recommendations related to AI initiatives, adoption, and program performance.
 	- My career demonstrates a long history of communicating with executives and Judiciary leadership. I feel very comfortable developing plans and goals that align with the Judiciary's strategic goals and effectively communicating plans and outcomes to leadership. 
 
 ### <a id="qualifications"></a>Minimum Qualifications:
