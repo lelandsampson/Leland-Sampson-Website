@@ -13,7 +13,7 @@ title: JIS AI Manager
 ## Ask my Hermes agent about me
 <section class="jis-ask" aria-labelledby="jis-ask-heading">
   <h2 id="jis-ask-heading"></h2>
-  <p>Ask questions about me. The answers come from <a href"https://github.com/lelandsampson/Leland-Sampson-Website/tree/main/files/jis">my knowledge base</a>.</p>
+  <p>Ask questions about me. The answers come from <a href="https://github.com/lelandsampson/Leland-Sampson-Website/tree/main/files/jis">my knowledge base</a>.</p>
   <form id="jis-ask-form">
     <label for="jis-question">Your question</label>
     <textarea id="jis-question" name="question" rows="3" maxlength="2000" required placeholder="What experience does Lee bring to the AI Program Manager role?"></textarea>
