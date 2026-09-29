@@ -16,7 +16,7 @@ title: JIS AI Manager
   <p>Ask questions about me. The answers come from my knowledge base.</p>
   <form id="jis-ask-form">
     <label for="jis-question">Your question</label>
-    <textarea id="jis-question" name="question" rows="3" maxlength="2000" required placeholder="What experience do I bring to the AI Program Manager role?"></textarea>
+    <textarea id="jis-question" name="question" rows="3" maxlength="2000" required placeholder="What experience does Lee bring to the AI Program Manager role?"></textarea>
     <button id="jis-ask-button" type="submit">Ask</button>
   </form>
   <p id="jis-status" role="status" aria-live="polite" hidden></p>
