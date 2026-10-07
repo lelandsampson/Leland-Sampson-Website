@@ -1,6 +1,7 @@
 ---
 layout: default
 title: JIS AI Manager
+noindex: true
 ---
 
 <h1 align="center">JIS Program Manager, Artificial Intelligence Application</h1>
