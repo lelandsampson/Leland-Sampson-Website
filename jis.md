@@ -14,10 +14,10 @@ noindex: true
 ## Ask my Hermes agent about me
 <section class="jis-ask" aria-labelledby="jis-ask-heading">
   <h2 id="jis-ask-heading"></h2>
-  <p>Ask questions about me. The answers come from my knowledge base.</p>
+  <p>Ask questions about me. The answers come from <a href="https://github.com/lelandsampson/Leland-Sampson-Website/tree/main/files/jis">my knowledge base</a>.</p>
   <form id="jis-ask-form">
     <label for="jis-question">Your question</label>
-    <textarea id="jis-question" name="question" rows="3" maxlength="2000" required placeholder="What experience do I bring to the AI Program Manager role?"></textarea>
+    <textarea id="jis-question" name="question" rows="3" maxlength="2000" required placeholder="What experience does Lee bring to the AI Program Manager role?"></textarea>
     <button id="jis-ask-button" type="submit">Ask</button>
   </form>
   <p id="jis-status" role="status" aria-live="polite" hidden></p>
@@ -89,7 +89,7 @@ noindex: true
 ## AI Leadership
 - [RAG chatbot in 2023](https://sampson.info/files/2023-aba-iolta-conference-tech-ai-slides.pdf#page=101)  
 
-- [Vibe coding before it was a thing](https://sampson.info/files/2024-AALL-GenAI-Revolutionizing-Efficiencies.pdf#page=25)
+- [Vibe coding before it was a thing](https://sampson.info/files/2024-AALL-GenAI-Revolutionizing-Efficiencies.pdf#page=41)
 
 ## PDQ Elements
 - [Essential Job Functions](#functions)
